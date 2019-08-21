@@ -3,6 +3,8 @@
     "isInterstitialAdEnabled": true,
     "isVideoAdEnabled": true,
     "isHomeScreenAdEnabled": true,
-    "link": "https://www.youtube.com/watch?v=RO41xuZA_yk",
-    "imgUrl": "https://caesiumstudio.github.io/r/img/advert.png"
+    "isHomeScreenAdEnabled": {
+        "link": "https://www.youtube.com/watch?v=RO41xuZA_yk",
+        "imgUrl": "https://caesiumstudio.github.io/r/img/advert.png"
+    }    
 }
