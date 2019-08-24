@@ -1,0 +1,10 @@
+{
+    "isBannerAdEnabled": true,
+    "isInterstitialAdEnabled": true,
+    "isVideoAdEnabled": true,
+    "isHomeScreenAdEnabled": true,
+    "homeScreenAdInfo": {
+        "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.deliverthepost",
+        "imgUrl": "https://caesiumstudio.github.io/r/tabla/postmaster_jack_advert.png"
+    }
+}
