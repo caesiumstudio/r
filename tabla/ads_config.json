@@ -4,7 +4,7 @@
     "isVideoAdEnabled": true,
     "isHomeScreenAdEnabled": true,
     "homeScreenAdInfo": {
-        "link": "https://www.youtube.com/watch?v=OuW2TEKtpHs",
+        "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.tabla_pro",
         "imgUrl": "https://caesiumstudio.github.io/r/tabla/tablapro.png"
     }
 }
