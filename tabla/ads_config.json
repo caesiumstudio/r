@@ -1,8 +1,8 @@
 {
-    "isBannerAdEnabled": true,
+    "isBannerAdEnabled": false,
     "isInterstitialAdEnabled": false,
-    "isVideoAdEnabled": true,
-    "isHomeScreenAdEnabled": true,
+    "isVideoAdEnabled": false,
+    "isHomeScreenAdEnabled": false,
     "homeScreenAdInfo": {
         "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.tabla_pro",
         "imgUrl": "https://caesiumstudio.github.io/r/tabla/tablapro.png"
