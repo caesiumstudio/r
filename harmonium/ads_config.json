@@ -1,7 +1,7 @@
 {
     "isBannerAdEnabled": true,
-    "isInterstitialAdEnabled": false,
-    "isVideoAdEnabled": true,
+    "isInterstitialAdEnabled": true,
+    "isVideoAdEnabled": false,
     "isHomeScreenAdEnabled": true,
     "homeScreenAdInfo": {
         "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.tabla",
