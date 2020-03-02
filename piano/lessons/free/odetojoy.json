@@ -1,7 +1,7 @@
 {
     "tempo": "100",
     "notes": [
-        {"note": "e4", "duration": "duration": "1"},
+        {"note": "e4", "duration": "1"},
         {"note": "e4", "duration": "1"},
         {"note": "f4", "duration": "1"},
         {"note": "g4", "duration": "1"},
