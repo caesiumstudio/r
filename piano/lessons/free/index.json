@@ -2,18 +2,18 @@
     "id": "0",
     "title": "Ode to Joy",
     "desc": "Bethoven's 9th Symphony",
-    "filename": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
     "isFree": "true"
 }, {
     "id": "1",
     "title": "Happy Birthday",
     "desc": "Bethoven's 9th Symphony",
-    "filename": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
     "isFree": "true"
 }, {
     "id": "2",
     "title": "Twinkle Twinkle",
     "desc": "Bethoven's 9th Symphony",
-    "filename": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
     "isFree": "true"
 }]
