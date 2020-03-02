@@ -2,15 +2,18 @@
     "id": "0",
     "title": "Ode to Joy",
     "desc": "Bethoven's 9th Symphony",
-    "filename": "free/odetojoy.json"
+    "filename": "free/odetojoy.json",
+    "isFree": "true"
 }, {
     "id": "1",
     "title": "Happy Birthday",
     "desc": "Bethoven's 9th Symphony",
-    "filename": "free/odetojoy.json"
+    "filename": "free/odetojoy.json",
+    "isFree": "true"
 }, {
     "id": "2",
     "title": "Twinkle Twinkle",
     "desc": "Bethoven's 9th Symphony",
-    "filename": "free/odetojoy.json"
+    "filename": "free/odetojoy.json",
+    "isFree": "true"
 }]
