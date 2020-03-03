@@ -12,8 +12,8 @@
     "desc": "Bethoven's 9th Symphony",
     "url": "https://caesiumstudio.github.io/r/piano/lessons/free/happybirthday.json",
     "isFree": "true",
-    "zoom": "0.7",
-    "scroll": "0.5"
+    "zoom": "1.0",
+    "scroll": "0.44"
 }, {
     "id": "2",
     "title": "Twinkle Twinkle",
