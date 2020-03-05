@@ -9,6 +9,7 @@
     "scroll": "0.5180875"
 }, {
     "id": "1",
+    "isPublished": "true",
     "title": "Happy Birthday",
     "desc": "Bethoven's 9th Symphony",
     "url": "https://caesiumstudio.github.io/r/piano/lessons/free/happybirthday.json",
@@ -17,6 +18,7 @@
     "scroll": "0.44"
 }, {
     "id": "2",
+    "isPublished": "true",
     "title": "Jingle Jingle Bell",
     "desc": "Cristemas Melody",
     "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jinglebell.json",
