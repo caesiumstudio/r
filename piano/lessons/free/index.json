@@ -1,6 +1,6 @@
 [{
     "id": "0",
-    "isPublished": "false",
+    "isPublished": "true",
     "title": "Ode to Joy",
     "desc": "Bethoven's 9th Symphony",
     "url": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
@@ -19,7 +19,7 @@
 }, {
     "id": "2",
     "isPublished": "true",
-    "title": "Jingle Jingle Bell",
+    "title": "Jingle Bells",
     "desc": "Cristemas Melody",
     "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jinglebell.json",
     "isFree": "true",
