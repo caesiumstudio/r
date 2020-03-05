@@ -153,10 +153,6 @@
         }, {
             "note": "c4",
             "duration": 0.462
-        }, {
-            "note": 4,
-            "duration": 3.637,
-            "end": 1
         },
         {
             "note": "g3",
