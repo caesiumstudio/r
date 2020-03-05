@@ -25,4 +25,14 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.47"
+},
+{
+    "id": "4",
+    "isPublished": "true",
+    "title": "Mary had a little lamb",
+    "desc": "Children stories (Very Easy)",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jinglebell.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.47"
 }]
