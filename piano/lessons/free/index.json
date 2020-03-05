@@ -1,5 +1,6 @@
 [{
     "id": "0",
+    "isPublished": "false",
     "title": "Ode to Joy",
     "desc": "Bethoven's 9th Symphony",
     "url": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
