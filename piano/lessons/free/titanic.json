@@ -172,7 +172,8 @@
             "duration": 0.55
         }, {
             "note": "b3",
-            "duration": 2.163 "part2": "finished"
+            "duration": 2.163,
+            "part2": "finished"
         }, {
             "note": "e4",
             "duration": 1.681
