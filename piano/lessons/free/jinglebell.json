@@ -1,5 +1,5 @@
 {
-    "tempo": "50",
+    "tempo": "70",
     "notes": [{
             "note": "e4",
             "duration": 0.504
@@ -156,7 +156,7 @@
         },
         {
             "note": "g3",
-            "duration": 1.211
+            "duration": 1.811
         }, {
             "note": "e4",
             "duration": 0.48
