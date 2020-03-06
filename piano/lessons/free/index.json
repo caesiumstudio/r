@@ -35,4 +35,14 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.47"
+},
+{
+    "id": "4",
+    "isPublished": "true",
+    "title": "Twinkle, twinkle, little star",
+    "desc": "Children stories",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/twinkletwinkle.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.47"
 }]
