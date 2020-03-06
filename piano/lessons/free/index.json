@@ -45,4 +45,14 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.47"
+},
+{
+    "id": "4",
+    "isPublished": "true",
+    "title": "My heart will go on (Titanic)",
+    "desc": "Hollywood Movie",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/titanic.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.47"
 }]
