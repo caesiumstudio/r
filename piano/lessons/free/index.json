@@ -64,4 +64,14 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.57"
-}]
+}, {
+    "id": "7",
+    "isPublished": "false",
+    "title": "Baby Shark",
+    "desc": "Pinkfong",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/babyshark.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.57"
+}
+]
