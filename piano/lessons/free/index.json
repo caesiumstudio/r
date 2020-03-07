@@ -81,7 +81,7 @@
         "desc": "Video Game",
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/supermario.json",
         "isFree": "true",
-        "zoom": "1",
-        "scroll": "0.58"
+        "zoom": "0.9",
+        "scroll": "0.60"
     }
 ]
