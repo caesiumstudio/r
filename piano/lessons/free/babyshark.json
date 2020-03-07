@@ -77,7 +77,7 @@
             "duration": 0.257
         }, {
             "note": "g4",
-            "duration": 0.3
+            "duration": 0
         }, {
             "note": "g4",
             "duration": 0.238
@@ -209,7 +209,7 @@
             "duration": 0.37
         }, {
             "note": "g4",
-            "duration": 0.37
+            "duration": 0
         }, {
             "note": "d4",
             "duration": 0.234
@@ -221,7 +221,7 @@
             "duration": 0.38
         }, {
             "note": "g4",
-            "duration": 0.38
+            "duration": 0
         }, {
             "note": "d4",
             "duration": 0.197
@@ -275,7 +275,7 @@
             "duration": 0.24
         }, {
             "note": "g4",
-            "duration": 0.24
+            "duration": 0
         }, {
             "note": "d4",
             "duration": 0.383
@@ -365,7 +365,7 @@
             "duration": 0.35
         }, {
             "note": "g4",
-            "duration": 0.35
+            "duration": 0
         }, {
             "note": "d4",
             "duration": 0.366
@@ -479,7 +479,7 @@
             "duration": 0.32
         }, {
             "note": "g4",
-            "duration": 0.32
+            "duration": 0
         }, {
             "note": "e4",
             "duration": 0.224
@@ -671,13 +671,13 @@
             "duration": 0.39
         }, {
             "note": "g4#",
-            "duration": 0.39
+            "duration": 0
         }, {
             "note": "c4#",
             "duration": 0.19
         }, {
             "note": "g4#",
-            "duration": 0.19
+            "duration": 0
         }, {
             "note": "c4#",
             "duration": 0.357
@@ -713,7 +713,7 @@
             "duration": 0.37
         }, {
             "note": "g4#",
-            "duration": 0.37
+            "duration": 0
         }, {
             "note": "f4",
             "duration": 0.364
@@ -725,7 +725,7 @@
             "duration": 0.23
         }, {
             "note": "g4#",
-            "duration": 0.23
+            "duration": 0
         }, {
             "note": "f4",
             "duration": 0.318
@@ -839,7 +839,7 @@
             "duration": 0.18
         }, {
             "note": "g4#",
-            "duration": 0.18
+            "duration": 0
         }, {
             "note": "c4#",
             "duration": 0.396
@@ -911,7 +911,7 @@
             "duration": 0.37
         } ,{
             "note": "g4#",
-            "duration": 0.37
+            "duration": 0
         }, {
             "note": "d4#",
             "duration": 0.335
