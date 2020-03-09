@@ -83,5 +83,15 @@
         "isFree": "true",
         "zoom": "0.75",
         "scroll": "0.6440295"
+    },
+    {
+        "id": "8",
+        "isPublished": "false",
+        "title": "Tum Hi Ho.. (Ashiqui 2)",
+        "desc": "Video Game",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/humhiho.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.55"
     }
 ]
