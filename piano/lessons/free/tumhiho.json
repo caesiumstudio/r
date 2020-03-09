@@ -1,6 +1,6 @@
 {
     "tempo": 60,
-    "notes" [{
+    "notes": [{
         "note": "f4",
         "duration": 1.643
     }, {
