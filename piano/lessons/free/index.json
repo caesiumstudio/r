@@ -6,7 +6,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.5180875"
+        "scroll": "0.5180875",
+        "video": ""
     }, {
         "id": "1",
         "isPublished": "true",
@@ -15,7 +16,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/happybirthday.json",
         "isFree": "true",
         "zoom": "1.0",
-        "scroll": "0.44"
+        "scroll": "0.44",
+        "video": ""
     }, {
         "id": "2",
         "isPublished": "true",
@@ -24,7 +26,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jinglebell.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.47"
+        "scroll": "0.47",
+        "video": "https://www.youtube.com/watch?v=iSAgCqutuZo"
     },
     {
         "id": "4",
@@ -34,7 +37,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/marrayhadalittlelamb.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.47"
+        "scroll": "0.47",
+        "video": ""
     },
     {
         "id": "4",
@@ -44,7 +48,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/twinkletwinkle.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.47"
+        "scroll": "0.47",
+        "video": ""
     },
     {
         "id": "5",
@@ -54,7 +59,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/titanic.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.51"
+        "scroll": "0.51",
+        "video": ""
     }, {
         "id": "6",
         "isPublished": "true",
@@ -63,7 +69,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/kalhonaho.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.57"
+        "scroll": "0.57",
+        "video": "https://www.youtube.com/watch?v=5woy5wRwSnU"
     }, {
         "id": "7",
         "isPublished": "true",
@@ -72,7 +79,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/babyshark.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.52"
+        "scroll": "0.52",
+        "video": ""
     },
     {
         "id": "8",
@@ -82,7 +90,8 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/supermario.json",
         "isFree": "true",
         "zoom": "0.75",
-        "scroll": "0.6440295"
+        "scroll": "0.6440295",
+        "video": ""
     },
     {
         "id": "8",
@@ -92,6 +101,7 @@
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/tumhiho.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.58"
+        "scroll": "0.58",
+        "video": "https://www.youtube.com/watch?v=NbACIEtaQXc"
     }
 ]
