@@ -49,7 +49,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.47",
-        "video": ""
+        "video": "https://www.youtube.com/watch?v=XVVngmqDX44"
     },
     {
         "id": "5",
@@ -60,7 +60,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.51",
-        "video": ""
+        "video": "https://www.youtube.com/watch?v=Gw3efT22bP4"
     }, {
         "id": "6",
         "isPublished": "true",
