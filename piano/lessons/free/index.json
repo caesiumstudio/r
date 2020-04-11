@@ -103,5 +103,16 @@
         "zoom": "1",
         "scroll": "0.58",
         "video": "https://www.youtube.com/watch?v=NbACIEtaQXc"
+    },
+    {
+        "id": "9",
+        "isPublished": "false",
+        "title": "Nagin Tune",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/nagin.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.58",
+        "video": "https://www.youtube.com/watch?v=NbACIEtaQXc"
     }
 ]
