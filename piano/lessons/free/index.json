@@ -114,5 +114,16 @@
         "zoom": "1",
         "scroll": "0.54",
         "video": "https://www.youtube.com/watch?v=lbqp8ZVPD2E"
+    },
+    {
+        "id": "10",
+        "isPublished": "false",
+        "title": "Kuch Kuch Hota Hai",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/kuchkuch.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.54",
+        "video": ""
     }
 ]
