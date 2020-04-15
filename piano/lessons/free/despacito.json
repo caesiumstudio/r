@@ -339,7 +339,7 @@
         "duration": 0.208
     }, {
         "note": "f4#",
-        "duration": 1.814
+        "duration": 0.5
     }, {
         "note": "d5",
         "duration": 0.222
@@ -358,7 +358,7 @@
     }, {
         "chorus": "1",
         "note": "f4#",
-        "duration": 0.1
+        "duration": 0.46
     }, {
         "note": "f4#",
         "duration": 0.181
