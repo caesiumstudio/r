@@ -133,8 +133,8 @@
         "desc": "Latin America",
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/despacito.json",
         "isFree": "true",
-        "zoom": "1",
-        "scroll": "0.63",
+        "zoom": "0.8",
+        "scroll": "0.60",
         "video": ""
     }
 ]
