@@ -53,7 +53,7 @@
         "duration": 0.545
     }, {
         "note": "f4#",
-        "duration": 1.2
+        "duration": 1.978
     }, {
         "note": "d5",
         "duration": 0.187
@@ -179,7 +179,7 @@
         "duration": 0.225
     }, {
         "note": "f4#",
-        "duration": 1.0
+        "duration": 1.612
     }, {
         "note": "d5",
         "duration": 0.198
@@ -198,7 +198,7 @@
     }, {
         "choras": "1",
         "note": "f4#",
-        "duration": 1.006
+        "duration": 1
     }, {
         "note": "b4",
         "duration": 0.235
@@ -267,7 +267,7 @@
         "duration": 0.221
     }, {
         "note": "b4",
-        "duration": 1.0
+        "duration": 1.756
     }, {
         "note": "f4#",
         "duration": 1.2
@@ -339,7 +339,7 @@
         "duration": 0.208
     }, {
         "note": "f4#",
-        "duration": 1.0
+        "duration": 1.814
     }, {
         "note": "d5",
         "duration": 0.222
