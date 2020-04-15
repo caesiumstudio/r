@@ -179,7 +179,7 @@
         "duration": 0.225
     }, {
         "note": "f4#",
-        "duration": 1.612
+        "duration": 1.0
     }, {
         "note": "d5",
         "duration": 0.198
@@ -267,7 +267,7 @@
         "duration": 0.221
     }, {
         "note": "b4",
-        "duration": 6.756
+        "duration": 1.0
     }, {
         "note": "f4#",
         "duration": 1.2
