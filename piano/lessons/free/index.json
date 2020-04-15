@@ -125,5 +125,16 @@
         "zoom": "1",
         "scroll": "0.63",
         "video": "https://www.youtube.com/watch?v=wVSLzb9P0HM"
+    },
+    {
+        "id": "10",
+        "isPublished": "false",
+        "title": "Despacito",
+        "desc": "Latin America",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/kuchkuch.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.63",
+        "video": ""
     }
 ]
