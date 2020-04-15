@@ -358,7 +358,7 @@
     }, {
         "chorus": "1",
         "note": "f4#",
-        "duration": 0.46
+        "duration": 0.1
     }, {
         "note": "f4#",
         "duration": 0.181
@@ -367,13 +367,13 @@
         "duration": 0.192
     }, {
         "note": "c5#",
-        "duration": 0.19899999999999998
+        "duration": 0.2
     }, {
         "note": "d5",
         "duration": 0.185
     }, {
         "note": "c5#",
-        "duration": 0.24199999999999997
+        "duration": 0.24
     }, {
         "note": "d5",
         "duration": 0.224
@@ -385,25 +385,25 @@
         "duration": 0.214
     }, {
         "note": "c5#",
-        "duration": 0.47100000000000003
+        "duration": 0.47
     }, {
         "note": "b4",
         "duration": 0.466
     }, {
         "note": "b4",
-        "duration": 0.9199999999999999
+        "duration": 0.92
     }, {
         "note": "b4",
         "duration": 0.212
     }, {
         "note": "b4",
-        "duration": 0.19799999999999998
+        "duration": 0.197
     }, {
         "note": "c5#",
         "duration": 0.189
     }, {
         "note": "d5",
-        "duration": 0.23500000000000001
+        "duration": 0.235
     }, {
         "note": "c5#",
         "duration": 0.193
