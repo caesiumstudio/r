@@ -147,5 +147,15 @@
         "zoom": "0.75",
         "scroll": "0.568",
         "video": "https://www.youtube.com/watch?v=rCjo9qIqIGE"
+    },{
+        "id": "14",
+        "isPublished": "false",
+        "title": "Jana Gana Mana",
+        "desc": "Indian National Anthem",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jangan.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.60",
+        "video": ""
     }
 ]
