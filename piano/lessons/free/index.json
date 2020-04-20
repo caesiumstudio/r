@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": "0",
         "isPublished": "true",
         "title": "Despacito",
@@ -137,7 +136,7 @@
         "zoom": "1",
         "scroll": "0.63",
         "video": "https://www.youtube.com/watch?v=wVSLzb9P0HM"
-    },{
+    }, {
         "id": "13",
         "isPublished": "true",
         "title": "Tum Hi Aana - Mar Jaavaan",
@@ -147,12 +146,22 @@
         "zoom": "0.75",
         "scroll": "0.568",
         "video": "https://www.youtube.com/watch?v=rCjo9qIqIGE"
-    },{
+    }, {
         "id": "14",
         "isPublished": "true",
         "title": "Jana Gana Mana",
         "desc": "Indian National Anthem",
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jangan.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.68",
+        "video": ""
+    }, {
+        "id": "15",
+        "isPublished": "true",
+        "title": "Hallelujah – Cohen",
+        "desc": "Hallelujah – Cohen",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/hallaluija.json",
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.68",
