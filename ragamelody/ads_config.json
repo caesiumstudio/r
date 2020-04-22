@@ -1,0 +1,10 @@
+{
+  "showBannerAds": true,
+  "showInterstitialAds": false,
+  "showVideoAds": true,
+  "showHomeScreenAds": true,
+  "homeScreenAdsInfo": {
+    "url": "https://ragamelody-363a7.firebaseapp.com/promotion/rmAd.png",
+    "marketPackageName": "com.caesiumstudio.tabla"
+  }
+}
