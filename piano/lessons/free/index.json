@@ -166,5 +166,16 @@
         "zoom": "0.98",
         "scroll": "0.55",
         "video": ""
+    },
+    {
+        "id": "16",
+        "isPublished": "false",
+        "title": "Vande Mataram",
+        "desc": "Indian Nation Song",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/vande.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.55",
+        "video": ""
     }
 ]
