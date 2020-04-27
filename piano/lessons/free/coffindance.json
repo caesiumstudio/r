@@ -647,7 +647,7 @@
         {
             "part": 1,
             "note": "b4",
-            "duration": 1.216
+            "duration": 0.800
         }, {
             "note": "a4",
             "duration": 0.299
@@ -1291,7 +1291,7 @@
         },{
             "part": 2,
             "note": "b4",
-            "duration": 1.216
+            "duration": 0.800
         }, {
             "note": "a4",
             "duration": 0.299
