@@ -199,5 +199,17 @@
         "zoom": "1",
         "scroll": "0.38",
         "video": "https://www.youtube.com/watch?v=wkfMN8O57rE"
+    },
+    ,
+    {
+        "id": "19",
+        "isPublished": "false",
+        "title": "Rashk-E-Qamar",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/rashke.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.50",
+        "video": ""
     }
 ]
