@@ -394,10 +394,10 @@
     }, {
         "mid-music": 1,
         "note": "c5",
-        "duration": 0.699
+        "duration": 0.8
     }, {
         "note": "d5",
-        "duration": 0.983
+        "duration": 0.7
     }, {
         "note": "c5",
         "duration": 0.321
@@ -530,7 +530,7 @@
     }, {
         "behijaba na woh": 2,
         "note": "c5",
-        "duration": 0.653
+        "duration": 0.8
     }, {
         "note": "d5",
         "duration": 0.311
