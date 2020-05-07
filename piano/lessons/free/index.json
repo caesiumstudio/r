@@ -210,5 +210,16 @@
         "zoom": "1",
         "scroll": "0.60",
         "video": "https://www.youtube.com/watch?v=vhjNSwvAJxI"
+    },
+    {
+        "id": "20",
+        "isPublished": "false",
+        "title": "Teri Meri, Meri Teri",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/terimeri.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.54",
+        "video": ""
     }
 ]
