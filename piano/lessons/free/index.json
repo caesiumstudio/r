@@ -221,5 +221,16 @@
         "zoom": "1",
         "scroll": "0.54",
         "video": "https://www.youtube.com/watch?v=pFbxbNCMdz0"
+    },
+    {
+        "id": "20",
+        "isPublished": "false",
+        "title": "Beat Test",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/beattest.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.54",
+        "video": ""
     }
 ]
