@@ -12,12 +12,12 @@
     {
         "id": "1",
         "isPublished": "true",
-        "title": "Ode to Joy1",
+        "title": "Ode to Joy2",
         "desc": "Bethoven's 9th Symphony",
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
         "isFree": "true",
         "zoom": "1",
-        "scroll": "0.5180875",
+        "scroll": "0.48",
         "video": ""
     }, {
         "id": "2",
