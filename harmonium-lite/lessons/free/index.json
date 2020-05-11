@@ -1,12 +1,11 @@
 [{
-        "id": "0",
-        "isPublished": "true",
-        "title": "Learn Alankar Saralies",
-        "desc": "Basic Alankar Saralies",
-        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/alankar-saralies.json",
-        "isFree": "true",
-        "zoom": "0.8",
-        "scroll": "0.60",
-        "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
-    }
-]
+    "id": "0",
+    "isPublished": "true",
+    "title": "Alankar Saralies",
+    "desc": "Singing Lesson",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/odetojoy.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.46",
+    "video": ""
+}]
