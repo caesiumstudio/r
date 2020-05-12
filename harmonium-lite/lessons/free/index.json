@@ -8,7 +8,7 @@
     "zoom": "1",
     "scroll": "0.46",
     "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
-},{
+}, {
     "id": "1",
     "isPublished": "false",
     "title": "Alankar Saralies (Basic)",
@@ -17,7 +17,18 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.46",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
+
+}, {
+    "id": "1",
+    "isPublished": "false",
+    "title": "Alankar Saralies (Advanced)",
+    "desc": "Saragam",
+    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/alankars-basics.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.46",
+    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }, {
     "id": "2",
     "isPublished": "false",
@@ -27,7 +38,7 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.46",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }, {
     "id": "3",
     "isPublished": "false",
@@ -37,7 +48,7 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.46",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }, {
     "id": "4",
     "isPublished": "false",
@@ -47,7 +58,7 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.46",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }, {
     "id": "5",
     "isPublished": "false",
@@ -57,7 +68,7 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.46",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }, {
     "id": "6",
     "isPublished": "false",
@@ -67,7 +78,7 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.46",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }, {
     "id": "7",
     "isPublished": "false",
@@ -77,5 +88,5 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.46",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }]
