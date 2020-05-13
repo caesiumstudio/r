@@ -8,4 +8,24 @@
     "zoom": "1",
     "scroll": "0.46",
     "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
+}, {
+    "id": "1",
+    "isPublished": "true",
+    "title": "Happy Birthday to You!",
+    "desc": "Birthday Song",
+    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/happybirthday.json",
+    "isFree": "true",
+    "zoom": "1.0",
+    "scroll": "0.44",
+    "video": ""
+}, {
+    "id": "2",
+    "isPublished": "true",
+    "title": "Jana Gana Mana",
+    "desc": "Indian National Anthem",
+    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jangan.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.68",
+    "video": ""
 }]
