@@ -2,9 +2,9 @@
     "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": false,
     "isVideoAdEnabled": false,
-    "isHomeScreenAdEnabled": false,
+    "isHomeScreenAdEnabled": true,
     "homeScreenAdInfo": {
-        "link": "https://www.youtube.com/watch?v=vhjNSwvAJxI",
-        "imgUrl": "https://caesiumstudio.github.io/r/harmonium/rashke.png"
+        "link": "https://www.youtube.com/watch?v=tG6fNXFAYhg",
+        "imgUrl": "https://caesiumstudio.github.io/r/harmonium-lite/alankars.png"
     }
 }
