@@ -10,7 +10,7 @@
     "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }, {
     "id": "1",
-    "isPublished": "true",
+    "isPublished": "false",
     "title": "Happy Birthday to You!",
     "desc": "Birthday Song",
     "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/happybirthday.json",
@@ -20,7 +20,7 @@
     "video": ""
 }, {
     "id": "2",
-    "isPublished": "true",
+    "isPublished": "false",
     "title": "Jana Gana Mana",
     "desc": "Indian National Anthem",
     "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jangan.json",
