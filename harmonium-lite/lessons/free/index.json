@@ -16,7 +16,7 @@
     "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/happybirthday.json",
     "isFree": "true",
     "zoom": "1.0",
-    "scroll": "0.54",
+    "scroll": "0.44",
     "video": ""
 }, {
     "id": "2",
@@ -26,6 +26,6 @@
     "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jangan.json",
     "isFree": "true",
     "zoom": "1",
-    "scroll": "0.68",
+    "scroll": "0.74",
     "video": ""
 }]
