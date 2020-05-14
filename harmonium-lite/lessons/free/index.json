@@ -10,7 +10,7 @@
     "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
 }, {
     "id": "1",
-    "isPublished": "false",
+    "isPublished": "true",
     "title": "Happy Birthday to You!",
     "desc": "Birthday Song",
     "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/happybirthday.json",
@@ -27,5 +27,5 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.95",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=RX-QCobXXss"
 }]
