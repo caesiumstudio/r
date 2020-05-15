@@ -2536,12 +2536,12 @@
         {
             "note": "c4#",
             "Sur": "Sa",
-            "duration": 1.0
+            "duration": 5.0
         },
         {
             "note": "c4#",
             "Sur": "Sa",
-            "duration": 5.0
+            "duration": 1.0
         },
         {
             "note": "d4#",
