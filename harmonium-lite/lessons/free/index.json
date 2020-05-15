@@ -20,14 +20,14 @@
     "video": ""
 }, {
     "id": "1",
-    "isPublished": "false",
+    "isPublished": "true",
     "title": "Happy Birthday to You!",
     "desc": "Birthday Song",
     "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/happybirthday.json",
     "isFree": "true",
     "zoom": "1.0",
-    "scroll": "0.44",
-    "video": ""
+    "scroll": "0.25",
+    "video": "https://www.youtube.com/watch?v=2SBau5hdT8I"
 }, {
     "id": "2",
     "isPublished": "true",
@@ -37,5 +37,5 @@
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.95",
-    "video": ""
+    "video": "https://www.youtube.com/watch?v=RX-QCobXXss"
 }]
