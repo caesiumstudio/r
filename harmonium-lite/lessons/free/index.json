@@ -8,6 +8,16 @@
     "zoom": "1",
     "scroll": "0.46",
     "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
+},{
+    "id": "0",
+    "isPublished": "false",
+    "title": "Alankar Saralies - Basic",
+    "desc": "Saragam",
+    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/alankars.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.46",
+    "video": ""
 }, {
     "id": "1",
     "isPublished": "false",
