@@ -2,9 +2,9 @@
     "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": false,
     "isVideoAdEnabled": false,
-    "isHomeScreenAdEnabled": false,
+    "isHomeScreenAdEnabled": true,
     "homeScreenAdInfo": {
-        "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.tabla",
-        "imgUrl": "https://caesiumstudio.github.io/r/tabla/tablapro.png"
+        "link": "https://www.youtube.com/watch?v=vhjNSwvAJxI",
+        "imgUrl": "https://caesiumstudio.github.io/r/piano/rashke.png"
     }
 }
