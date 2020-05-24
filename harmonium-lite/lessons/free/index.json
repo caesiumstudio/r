@@ -33,9 +33,20 @@
     "isPublished": "true",
     "title": "Jana Gana Mana",
     "desc": "Indian National Anthem",
-    "url": "https://caesiumstudio.github.io/r/piano/lessons/free/jangan.json",
+    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/jangan.json",
     "isFree": "true",
     "zoom": "1",
     "scroll": "0.95",
     "video": "https://www.youtube.com/watch?v=RX-QCobXXss"
+},
+{
+    "id": "19",
+    "isPublished": "false",
+    "title": "Rashk-E-Qamar",
+    "desc": "Bollywood",
+    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/rashke.json",
+    "isFree": "true",
+    "zoom": "1",
+    "scroll": "0.60",
+    "video": "https://www.youtube.com/watch?v=vhjNSwvAJxI"
 }]
