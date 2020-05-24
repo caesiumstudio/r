@@ -60,5 +60,15 @@
         "zoom": "1",
         "scroll": "0.56",
         "video": ""
+    }, {
+        "id": "7",
+        "isPublished": "false",
+        "title": "Kal Ho Na Ho",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/kalhonaho.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.57",
+        "video": ""
     }
 ]
