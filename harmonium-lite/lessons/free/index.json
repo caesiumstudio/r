@@ -41,12 +41,12 @@
 },
 {
     "id": "4",
-    "isPublished": "false",
+    "isPublished": "true",
     "title": "Rashk-E-Qamar",
     "desc": "Bollywood",
     "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/rashke.json",
     "isFree": "true",
     "zoom": "1",
-    "scroll": "0.70",
+    "scroll": "0.72",
     "video": ""
 }]
