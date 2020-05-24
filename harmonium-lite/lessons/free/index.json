@@ -1,52 +1,64 @@
 [{
-    "id": "0",
-    "isPublished": "true",
-    "title": "Saragam (Sa Re Ga Ma)",
-    "desc": "Saragam",
-    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/saragam.json",
-    "isFree": "true",
-    "zoom": "1",
-    "scroll": "0.46",
-    "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
-},{
-    "id": "1",
-    "isPublished": "true",
-    "title": "Alankar Saralies - Basics (Scale Male)",
-    "desc": "Saragam",
-    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/alankars.json",
-    "isFree": "true",
-    "zoom": "1",
-    "scroll": "0.51",
-    "video": "https://www.youtube.com/watch?v=QSxnsEpgC1k"
-}, {
-    "id": "2",
-    "isPublished": "true",
-    "title": "Happy Birthday to You!",
-    "desc": "Birthday Song",
-    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/happybirthday.json",
-    "isFree": "true",
-    "zoom": "1.0",
-    "scroll": "0.25",
-    "video": "https://www.youtube.com/watch?v=2SBau5hdT8I"
-}, {
-    "id": "3",
-    "isPublished": "true",
-    "title": "Jana Gana Mana",
-    "desc": "Indian National Anthem",
-    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/jangan.json",
-    "isFree": "true",
-    "zoom": "1",
-    "scroll": "0.95",
-    "video": "https://www.youtube.com/watch?v=RX-QCobXXss"
-},
-{
-    "id": "4",
-    "isPublished": "true",
-    "title": "Rashk-E-Qamar",
-    "desc": "Bollywood",
-    "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/rashke.json",
-    "isFree": "true",
-    "zoom": "1",
-    "scroll": "0.72",
-    "video": ""
-}]
+        "id": "0",
+        "isPublished": "true",
+        "title": "Saragam (Sa Re Ga Ma)",
+        "desc": "Saragam",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/saragam.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.46",
+        "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
+    }, {
+        "id": "1",
+        "isPublished": "true",
+        "title": "Alankar Saralies - Basics (Scale Male)",
+        "desc": "Saragam",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/alankars.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.51",
+        "video": "https://www.youtube.com/watch?v=QSxnsEpgC1k"
+    }, {
+        "id": "2",
+        "isPublished": "true",
+        "title": "Happy Birthday to You!",
+        "desc": "Birthday Song",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/happybirthday.json",
+        "isFree": "true",
+        "zoom": "1.0",
+        "scroll": "0.25",
+        "video": "https://www.youtube.com/watch?v=2SBau5hdT8I"
+    }, {
+        "id": "3",
+        "isPublished": "true",
+        "title": "Jana Gana Mana",
+        "desc": "Indian National Anthem",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/jangan.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.95",
+        "video": "https://www.youtube.com/watch?v=RX-QCobXXss"
+    },
+    {
+        "id": "4",
+        "isPublished": "true",
+        "title": "Rashk-E-Qamar",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/rashke.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.72",
+        "video": ""
+    },
+    {
+        "id": "5",
+        "isPublished": "true",
+        "title": "Nagin Tune",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/harmonium-lite/free/nagin.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.64",
+        "video": ""
+    }
+]
