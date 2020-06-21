@@ -80,5 +80,15 @@
         "zoom": "1",
         "scroll": "0.57",
         "video": ""
+    }, {
+        "id": "7",
+        "isPublished": "true",
+        "title": "Raga Bhoop",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/raga-bhoop.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.57",
+        "video": ""
     }
 ]
