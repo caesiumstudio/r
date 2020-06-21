@@ -3,7 +3,7 @@
     "notes": [{
             "note": "c4#",
             "Sur": "Sa",
-            "duration": 1.0
+            "duration": 3.0
         }, {
             "note": "d4#",
             "Sur": "Re",
@@ -52,7 +52,7 @@
         {
             "note": "f4",
             "Sur": "Ga",
-            "duration": 1.0
+            "duration": 3.0
         }, {
             "note": "d4#",
             "Sur": "Re",
@@ -101,7 +101,7 @@
         {
             "note": "c5#",
             "Sur": "SA",
-            "duration": 1.0
+            "duration": 3.0
         }, {
             "note": "c5#",
             "Sur": "SA",
@@ -354,7 +354,7 @@
         {
             "note": "c4#",
             "Sur": "Sa",
-            "duration": 1.0
+            "duration": 3.0
         }, {
             "note": "d4#",
             "Sur": "Re",
@@ -535,10 +535,11 @@
             "note": "c4#",
             "Sur": "Sa",
             "duration": 1.0
-        }, {
+        },
+        {
             "note": "a3#",
             "Sur": "dha",
-            "duration": 1.0
+            "duration": 3.0
         }, {
             "note": "c4#",
             "Sur": "Sa",
