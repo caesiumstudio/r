@@ -223,6 +223,17 @@
         "video": "https://www.youtube.com/watch?v=pFbxbNCMdz0"
     },
     {
+        "id": "21",
+        "isPublished": "false",
+        "title": "Pardesi Pardesi Jaana Nahin",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/pardesi.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.54",
+        "video": ""
+    },
+    {
         "id": "20",
         "isPublished": "false",
         "title": "Beat Test",

@@ -20,7 +20,7 @@
         "video": "https://www.youtube.com/watch?v=QSxnsEpgC1k"
     }, {
         "id": "2",
-        "isPublished": "true",
+        "isPublished": "false",
         "title": "Alankar Saralies - Advanced (Scale Male)",
         "desc": "Saragam",
         "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/alankar-advanced.json",
@@ -82,7 +82,7 @@
         "video": ""
     }, {
         "id": "7",
-        "isPublished": "true",
+        "isPublished": "false",
         "title": "Raga Bhoop",
         "desc": "Indian Classical",
         "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/raga-bhoop.json",
@@ -92,7 +92,7 @@
         "video": ""
     }, {
         "id": "7",
-        "isPublished": "true",
+        "isPublished": "false",
         "title": "Raga Durga",
         "desc": "Indian Classical",
         "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/raga-durga.json",
