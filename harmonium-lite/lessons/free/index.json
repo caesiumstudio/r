@@ -1,6 +1,16 @@
 [{
         "id": "0",
         "isPublished": "true",
+        "title": "Pardesi Pardesi Jaana Nahin",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/pardesi.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.56",
+        "video": ""
+    }, {
+        "id": "0",
+        "isPublished": "true",
         "title": "Saragam (Sa Re Ga Ma)",
         "desc": "Saragam",
         "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/saragam.json",
