@@ -1,6 +1,16 @@
 [{
         "id": "0",
         "isPublished": "true",
+        "title": "Genda Phool (Baadshah)",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/gendaphool.json",
+        "isFree": "true",
+        "zoom": "0.70",
+        "scroll": "0.63",
+        "video": ""
+    }, {
+        "id": "0",
+        "isPublished": "true",
         "title": "Pardesi Pardesi Jaana Nahin",
         "desc": "Bollywood",
         "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/pardesi.json",
