@@ -45,7 +45,53 @@
         }, {
             "note": "c5#",
             "duration": 0.246
+        },{
+            "note": "d4#",
+            "duration": 0.235
         }, {
+            "note": "d5#",
+            "duration": 0.414
+        }, {
+            "note": "a4#",
+            "duration": 0.197
+        }, {
+            "note": "a4#",
+            "duration": 0.269
+        }, {
+            "note": "c5#",
+            "duration": 0.399
+        }, {
+            "note": "c5#",
+            "duration": 0.222
+        }, {
+            "note": "c5#",
+            "duration": 0.216
+        }, {
+            "note": "a4#",
+            "duration": 0.19
+        }, {
+            "note": "g4",
+            "duration": 0.225
+        }, {
+            "note": "d4#",
+            "duration": 0.377
+        }, {
+            "note": "d5#",
+            "duration": 0.395
+        }, {
+            "note": "a4#",
+            "duration": 0.217
+        }, {
+            "note": "a4#",
+            "duration": 0.199
+        }, {
+            "note": "c5#",
+            "duration": 0.356
+        }, {
+            "note": "c5#",
+            "duration": 0.246
+        }, {
+            "sur": "part2"
             "note": "d5#",
             "duration": 0.985
         }, {
