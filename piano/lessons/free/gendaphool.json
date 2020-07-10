@@ -338,7 +338,8 @@
         "duration": 0.213
     }, {
         "note": "a5#",
-        "duration": 0.184
+        "duration": 0.184,
+        "scroll": 0.61
     }, {
         "note": "g5#",
         "duration": 0.201
@@ -653,7 +654,8 @@
         "duration": 0.395
     }, {
         "note": "f4",
-        "duration": 0.237
+        "duration": 0.237,
+        "scroll": 0.58
     }, {
         "note": "d4#",
         "duration": 0.381
