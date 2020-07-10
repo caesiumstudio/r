@@ -5,40 +5,31 @@
         "duration": 0
     }, {
         "note": "d4",
-        "duration": 0.856,
-        "scroll": 0.50
+        "duration": 0.856
     }, {
         "note": "c4",
-        "duration": 0.195,
-        "scroll": 0.51
+        "duration": 0.195
     }, {
         "note": "d4",
-        "duration": 0.615,
-        "scroll": 0.52
+        "duration": 0.615
     }, {
         "note": "e4",
-        "duration": 0.536,
-        "scroll": 0.53
+        "duration": 0.536
     }, {
         "note": "e4",
-        "duration": 0.56,
-        "scroll": 0.54
+        "duration": 0.56
     }, {
         "note": "e4",
-        "duration": 0.488,
-        "scroll": 0.55
+        "duration": 0.488
     }, {
         "note": "d4",
-        "duration": 1.049,
-        "scroll": 0.56
+        "duration": 1.049
     }, {
         "note": "d4",
-        "duration": 0.508,
-        "scroll": 0.57
+        "duration": 0.508
     }, {
         "note": "d4",
-        "duration": 0.523,
-        "scroll": 0.58
+        "duration": 0.523
     }, {
         "note": "e4",
         "duration": 1.023
