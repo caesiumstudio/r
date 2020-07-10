@@ -9,28 +9,36 @@
         "scroll": 0.50
     }, {
         "note": "c4",
-        "duration": 0.195
+        "duration": 0.195,
+        "scroll": 0.51
     }, {
         "note": "d4",
-        "duration": 0.615
+        "duration": 0.615,
+        "scroll": 0.52
     }, {
         "note": "e4",
-        "duration": 0.536
+        "duration": 0.536,
+        "scroll": 0.53
     }, {
         "note": "e4",
-        "duration": 0.56
+        "duration": 0.56,
+        "scroll": 0.54
     }, {
         "note": "e4",
-        "duration": 0.488
+        "duration": 0.488,
+        "scroll": 0.55
     }, {
         "note": "d4",
-        "duration": 1.049
+        "duration": 1.049,
+        "scroll": 0.56
     }, {
         "note": "d4",
-        "duration": 0.508
+        "duration": 0.508,
+        "scroll": 0.57
     }, {
         "note": "d4",
-        "duration": 0.523
+        "duration": 0.523,
+        "scroll": 0.58
     }, {
         "note": "e4",
         "duration": 1.023
