@@ -5,7 +5,8 @@
         "duration": 0
     }, {
         "note": "d4",
-        "duration": 0.856
+        "duration": 0.856,
+        "scroll": 0.8
     }, {
         "note": "c4",
         "duration": 0.195
