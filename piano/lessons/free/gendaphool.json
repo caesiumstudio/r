@@ -322,99 +322,8 @@
         "duration": 0.219
     }, {
         "note": "d5#",
-        "duration": 0.361
-    }, {
-        "sur": "part3",
-        "note": "a5#",
-        "duration": 1.226
-    }, {
-        "note": "a5#",
-        "duration": 0.416
-    }, {
-        "note": "a5#",
-        "duration": 0.188
-    }, {
-        "note": "a5#",
-        "duration": 0.213
-    }, {
-        "note": "a5#",
-        "duration": 0.184,
-        "scroll": 0.61
-    }, {
-        "note": "g5#",
-        "duration": 0.201
-    }, {
-        "note": "c6",
-        "duration": 0.186
-    }, {
-        "note": "a5#",
-        "duration": 0.197
-    }, {
-        "note": "g5",
-        "duration": 0.163
-    }, {
-        "note": "f5",
-        "duration": 0.196
-    }, {
-        "note": "c5#",
-        "duration": 0.399
-    }, {
-        "note": "c5#",
-        "duration": 0.38
-    }, {
-        "note": "d5#",
-        "duration": 0.216
-    }, {
-        "note": "f5",
-        "duration": 0.221
-    }, {
-        "note": "f5",
-        "duration": 0.366
-    }, {
-        "note": "a5#",
-        "duration": 1.148
-    }, {
-        "note": "a5#",
-        "duration": 0.38
-    }, {
-        "note": "a5#",
-        "duration": 0.208
-    }, {
-        "note": "a5#",
-        "duration": 0.202
-    }, {
-        "note": "a5#",
-        "duration": 0.191
-    }, {
-        "note": "g5#",
-        "duration": 0.192
-    }, {
-        "note": "c6",
-        "duration": 0.205
-    }, {
-        "note": "a5#",
-        "duration": 0.191
-    }, {
-        "note": "g5",
-        "duration": 0.183
-    }, {
-        "note": "f5",
-        "duration": 0.192
-    }, {
-        "note": "c5#",
-        "duration": 0.431
-    }, {
-        "note": "c5#",
-        "duration": 0.364
-    }, {
-        "note": "d5#",
-        "duration": 0.222
-    }, {
-        "note": "f5",
-        "duration": 0.216
-    }, {
-        "note": "d5#",
-        "duration": 0.381
+        "duration": 0.361,
+        "scroll": 0.64
     }, {
         "sur": "part3",
         "note": "a5#",
@@ -597,6 +506,98 @@
     }, {
         "note": "d5#",
         "duration": 0.381
+    }, {
+        "sur": "part3",
+        "note": "a5#",
+        "duration": 1.226
+    }, {
+        "note": "a5#",
+        "duration": 0.416
+    }, {
+        "note": "a5#",
+        "duration": 0.188
+    }, {
+        "note": "a5#",
+        "duration": 0.213
+    }, {
+        "note": "a5#",
+        "duration": 0.184
+    }, {
+        "note": "g5#",
+        "duration": 0.201
+    }, {
+        "note": "c6",
+        "duration": 0.186
+    }, {
+        "note": "a5#",
+        "duration": 0.197
+    }, {
+        "note": "g5",
+        "duration": 0.163
+    }, {
+        "note": "f5",
+        "duration": 0.196
+    }, {
+        "note": "c5#",
+        "duration": 0.399
+    }, {
+        "note": "c5#",
+        "duration": 0.38
+    }, {
+        "note": "d5#",
+        "duration": 0.216
+    }, {
+        "note": "f5",
+        "duration": 0.221
+    }, {
+        "note": "f5",
+        "duration": 0.366
+    }, {
+        "note": "a5#",
+        "duration": 1.148
+    }, {
+        "note": "a5#",
+        "duration": 0.38
+    }, {
+        "note": "a5#",
+        "duration": 0.208
+    }, {
+        "note": "a5#",
+        "duration": 0.202
+    }, {
+        "note": "a5#",
+        "duration": 0.191
+    }, {
+        "note": "g5#",
+        "duration": 0.192
+    }, {
+        "note": "c6",
+        "duration": 0.205
+    }, {
+        "note": "a5#",
+        "duration": 0.191
+    }, {
+        "note": "g5",
+        "duration": 0.183
+    }, {
+        "note": "f5",
+        "duration": 0.192
+    }, {
+        "note": "c5#",
+        "duration": 0.431
+    }, {
+        "note": "c5#",
+        "duration": 0.364
+    }, {
+        "note": "d5#",
+        "duration": 0.222
+    }, {
+        "note": "f5",
+        "duration": 0.216
+    }, {
+        "note": "d5#",
+        "duration": 0.381,
+        "scroll": 0.58
     }, {
         "sur": "part4",
         "note": "a4#",
@@ -654,8 +655,7 @@
         "duration": 0.395
     }, {
         "note": "f4",
-        "duration": 0.237,
-        "scroll": 0.58
+        "duration": 0.237
     }, {
         "note": "d4#",
         "duration": 0.381
