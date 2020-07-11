@@ -3,39 +3,30 @@
     "notes": [{
         "note": "g3",
         "duration": 1.522,
-        "scroll": 0.5
     }, {
         "note": "g3",
-        "duration": 0.367,
-        "scroll": 0.51
+        "duration": 0.367
     }, {
         "note": "a3",
-        "duration": 0.368,
-        "scroll": 0.52
+        "duration": 0.368
     }, {
         "note": "g3",
-        "duration": 0.774,
-        "scroll": 0.53
+        "duration": 0.774
     }, {
         "note": "c4",
-        "duration": 0.778,
-        "scroll": 0.54
+        "duration": 0.778
     }, {
         "note": "b3",
-        "duration": 0.786,
-        "scroll": 0.55
+        "duration": 0.786
     }, {
         "note": "g3",
-        "duration": 1.726,
-        "scroll": 0.56
+        "duration": 1.726
     }, {
         "note": "g3",
-        "duration": 0.365,
-        "scroll": 0.57
+        "duration": 0.365
     }, {
         "note": "a3",
-        "duration": 0.384,
-        "scroll": 0.58
+        "duration": 0.384
     }, {
         "note": "g3",
         "duration": 0.767
