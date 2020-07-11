@@ -2,31 +2,40 @@
     "tempo": "60",
     "notes": [{
         "note": "g3",
-        "duration": 1.522
+        "duration": 1.522,
+        "scroll": 0.5
     }, {
         "note": "g3",
-        "duration": 0.367
+        "duration": 0.367,
+        "scroll": 0.51
     }, {
         "note": "a3",
-        "duration": 0.368
+        "duration": 0.368,
+        "scroll": 0.52
     }, {
         "note": "g3",
-        "duration": 0.774
+        "duration": 0.774,
+        "scroll": 0.53
     }, {
         "note": "c4",
-        "duration": 0.778
+        "duration": 0.778,
+        "scroll": 0.54
     }, {
         "note": "b3",
-        "duration": 0.786
+        "duration": 0.786,
+        "scroll": 0.55
     }, {
         "note": "g3",
-        "duration": 1.726
+        "duration": 1.726,
+        "scroll": 0.56
     }, {
         "note": "g3",
-        "duration": 0.365
+        "duration": 0.365,
+        "scroll": 0.57
     }, {
         "note": "a3",
-        "duration": 0.384
+        "duration": 0.384,
+        "scroll": 0.58
     }, {
         "note": "g3",
         "duration": 0.767
