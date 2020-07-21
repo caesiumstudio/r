@@ -15,8 +15,8 @@
         "desc": "Bollywood",
         "url": "https://caesiumstudio.github.io/r/piano/lessons/free/gendaphool.json",
         "isFree": "true",
-        "zoom": ".8",
-        "scroll": "0.61",
+        "zoom": "1",
+        "scroll": "0.58",
         "video": ""
     }, {
         "id": "0",
