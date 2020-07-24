@@ -322,7 +322,8 @@
         "duration": 0.219
     }, {
         "note": "d5#",
-        "duration": 0.361
+        "duration": 0.361,
+        "scroll": 0.68
     }, {
         "sur": "part3",
         "note": "a5#",
@@ -595,7 +596,8 @@
         "duration": 0.216
     }, {
         "note": "d5#",
-        "duration": 0.381
+        "duration": 0.381,
+        "scroll": 0.55
     }, {
         "sur": "part4",
         "note": "a4#",
