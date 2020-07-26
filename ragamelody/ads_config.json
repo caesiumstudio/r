@@ -3,8 +3,8 @@
     "showInterstitialAds": false,
     "showVideoAds": true,
     "showHomeScreenAds": true,
-    "homeScreenAdsInfo": {
-        "link": "https://www.youtube.com/watch?v=QSxnsEpgC1k",
-        "url": "https://caesiumstudio.github.io/r/ragamelody/alankar.png"
+    "homeScreenAdInfo": {
+        "link": "https://www.youtube.com/watch?v=AIhEj_OZMEw",
+        "imgUrl": "https://caesiumstudio.github.io/r/img/genda-harmonium.png"
     }
 }
