@@ -1,6 +1,17 @@
 [{
         "id": "0",
         "isPublished": "true",
+        "title": "Kuch Kuch Hota Hai",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/kuchkuch.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.66",
+        "video": ""
+    },
+    {
+        "id": "0",
+        "isPublished": "true",
         "title": "Genda Phool (Baadshah)",
         "desc": "Bollywood",
         "url": "https://caesiumstudio.github.io/r/harmonium-lite/lessons/free/gendaphool.json",
