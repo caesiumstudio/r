@@ -3,7 +3,7 @@
     "showInterstitialAds": false,
     "showVideoAds": true,
     "showHomeScreenAds": true,
-    "homeScreenAdInfo": {
+    "homeScreenAdsInfo": {
         "link": "https://www.youtube.com/watch?v=n3uLU-63lgM",
         "imgUrl": "https://caesiumstudio.github.io/r/img/pardesi.png"
     }
