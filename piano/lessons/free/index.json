@@ -1,4 +1,14 @@
 [{
+        "id": "21",
+        "isPublished": "false",
+        "title": "Jai Ganesh (Ganesh Aarti)",
+        "desc": "Bollywood",
+        "url": "https://caesiumstudio.github.io/r/piano/lessons/free/ganesh.json",
+        "isFree": "true",
+        "zoom": "1",
+        "scroll": "0.50",
+        "video": ""
+    }, {
         "id": "20",
         "isPublished": "false",
         "title": "Beat Test",
