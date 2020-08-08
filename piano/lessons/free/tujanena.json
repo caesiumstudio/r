@@ -1,10 +1,6 @@
 {
     "tempo": "60",
-    "notes": [
-
-
-
-        {
+    "notes": [{
             "part": "tu jane na",
             "note": "a4",
             "duration": 0.865
