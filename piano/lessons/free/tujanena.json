@@ -3,218 +3,218 @@
     "notes": [{
             "part": "tu jane na",
             "note": "a4",
-            "duration": 0.865
+            "duration": 0.915
         }, {
             "note": "b4",
-            "duration": 0.283
+            "duration": 0.33299999999999996
         }, {
             "note": "b4",
-            "duration": 0.678
+            "duration": 0.7280000000000001
         }, {
             "note": "b4",
+            "duration": 0.367
+        }, {
+            "note": "c5",
+            "duration": 0.668
+        }, {
+            "note": "b4",
+            "duration": 0.329
+        }, {
+            "note": "a4",
+            "duration": 0.364
+        }, {
+            "note": "b4",
+            "duration": 0.366
+        }, {
+            "note": "b4",
+            "duration": 0.623
+        }, {
+            "note": "b4",
+            "duration": 0.33699999999999997
+        }, {
+            "note": "c5",
+            "duration": 0.627
+        }, {
+            "note": "b4",
+            "duration": 0.347
+        }, {
+            "note": "g4",
+            "duration": 0.33599999999999997
+        }, {
+            "note": "a4",
+            "duration": 0.358
+        }, {
+            "note": "a4",
+            "duration": 0.654
+        }, {
+            "note": "a4",
+            "duration": 0.346
+        }, {
+            "note": "c5",
+            "duration": 0.621
+        }, {
+            "note": "b4",
+            "duration": 0.383
+        }, {
+            "note": "g4",
+            "duration": 0.33599999999999997
+        }, {
+            "note": "f4#",
+            "duration": 0.351
+        }, {
+            "note": "a4",
+            "duration": 2.182
+        }, {
+            "note": "b4",
+            "duration": 0.35
+        }, {
+            "note": "b4",
+            "duration": 0.656
+        }, {
+            "note": "b4",
+            "duration": 0.355
+        }, {
+            "note": "c5",
+            "duration": 0.645
+        }, {
+            "note": "b4",
+            "duration": 0.349
+        }, {
+            "note": "a4",
+            "duration": 0.348
+        }, {
+            "note": "b4",
+            "duration": 0.349
+        }, {
+            "note": "b4",
+            "duration": 0.667
+        }, {
+            "note": "b4",
+            "duration": 0.361
+        }, {
+            "note": "d5",
             "duration": 0.317
         }, {
             "note": "c5",
-            "duration": 0.618
+            "duration": 0.34299999999999997
         }, {
             "note": "b4",
-            "duration": 0.279
-        }, {
-            "note": "a4",
-            "duration": 0.314
-        }, {
-            "note": "b4",
-            "duration": 0.316
-        }, {
-            "note": "b4",
-            "duration": 0.573
-        }, {
-            "note": "b4",
-            "duration": 0.287
-        }, {
-            "note": "c5",
-            "duration": 0.577
-        }, {
-            "note": "b4",
-            "duration": 0.297
+            "duration": 0.33799999999999997
         }, {
             "note": "g4",
-            "duration": 0.286
+            "duration": 0.365
         }, {
             "note": "a4",
-            "duration": 0.308
+            "duration": 0.33199999999999996
         }, {
             "note": "a4",
-            "duration": 0.604
+            "duration": 0.639
         }, {
             "note": "a4",
-            "duration": 0.296
+            "duration": 0.357
         }, {
             "note": "c5",
-            "duration": 0.571
+            "duration": 0.655
         }, {
             "note": "b4",
-            "duration": 0.333
+            "duration": 0.33499999999999996
         }, {
             "note": "g4",
-            "duration": 0.286
+            "duration": 0.348
         }, {
             "note": "f4#",
-            "duration": 0.301
-        }, {
-            "note": "a4",
-            "duration": 2.132
-        }, {
-            "note": "b4",
-            "duration": 0.3
-        }, {
-            "note": "b4",
-            "duration": 0.606
-        }, {
-            "note": "b4",
-            "duration": 0.305
-        }, {
-            "note": "c5",
-            "duration": 0.595
-        }, {
-            "note": "b4",
-            "duration": 0.299
-        }, {
-            "note": "a4",
-            "duration": 0.298
-        }, {
-            "note": "b4",
-            "duration": 0.299
-        }, {
-            "note": "b4",
-            "duration": 0.617
-        }, {
-            "note": "b4",
-            "duration": 0.311
-        }, {
-            "note": "d5",
-            "duration": 0.267
-        }, {
-            "note": "c5",
-            "duration": 0.293
-        }, {
-            "note": "b4",
-            "duration": 0.288
-        }, {
-            "note": "g4",
-            "duration": 0.315
-        }, {
-            "note": "a4",
-            "duration": 0.282
-        }, {
-            "note": "a4",
-            "duration": 0.589
-        }, {
-            "note": "a4",
-            "duration": 0.307
-        }, {
-            "note": "c5",
-            "duration": 0.605
-        }, {
-            "note": "b4",
-            "duration": 0.285
-        }, {
-            "note": "g4",
-            "duration": 0.298
+            "duration": 0.329
         }, {
             "note": "f4#",
-            "duration": 0.279
-        }, {
-            "note": "f4#",
-            "duration": 0.601
+            "duration": 0.651
         }, {
             "note": "g4",
-            "duration": 0.281
+            "duration": 0.331
         }, {
             "note": "e4",
-            "duration": 0.316
+            "duration": 0.366
         }, {
             "note": "f4#",
-            "duration": 0.585
+            "duration": 0.635
         }, {
             "note": "g4",
-            "duration": 0.302
+            "duration": 0.352
         }, {
             "note": "b4",
-            "duration": 1.509
+            "duration": 1.559
         }, {
             "note": "a4",
-            "duration": 0.284
+            "duration": 0.33399999999999996
         }, {
             "note": "c5",
-            "duration": 0.295
+            "duration": 0.345
         }, {
             "note": "b4",
-            "duration": 0.316
+            "duration": 0.366
         }, {
             "note": "a4",
-            "duration": 0.305
+            "duration": 0.355
         }, {
             "note": "f4#",
-            "duration": 0.593
+            "duration": 0.643
         }, {
             "note": "g4",
-            "duration": 0.301
+            "duration": 0.351
         }, {
             "note": "e4",
-            "duration": 0.318
+            "duration": 0.368
         }, {
             "note": "f4#",
-            "duration": 0.6
+            "duration": 0.65
         }, {
             "note": "g4",
-            "duration": 0.27
+            "duration": 0.32
         }, {
             "note": "f4#",
-            "duration": 3.215
+            "duration": 3.2649999999999997
         }, {
             "note": "g4",
-            "duration": 0.29
+            "duration": 0.33999999999999997
         }, {
             "note": "e4",
-            "duration": 0.296
+            "duration": 0.346
         }, {
             "note": "f4#",
-            "duration": 0.576
+            "duration": 0.626
         }, {
             "note": "g4",
-            "duration": 0.303
+            "duration": 0.353
         }, {
             "note": "b4",
-            "duration": 1.53
+            "duration": 1.58
         }, {
             "note": "a4",
-            "duration": 0.303
+            "duration": 0.353
         }, {
             "note": "c5",
-            "duration": 0.272
+            "duration": 0.322
         }, {
             "note": "b4",
-            "duration": 0.314
+            "duration": 0.364
         }, {
             "note": "a4",
-            "duration": 0.287
+            "duration": 0.33699999999999997
         }, {
             "note": "f4#",
-            "duration": 0.573
+            "duration": 0.623
         }, {
             "note": "g4",
-            "duration": 0.299
+            "duration": 0.349
         }, {
             "note": "e4",
-            "duration": 0.292
+            "duration": 0.34199999999999997
         }, {
             "note": "f4#",
-            "duration": 0.585
+            "duration": 0.635
         }, {
             "part-finish": "tu jane na",
             "note": "g4",
-            "duration": 0.299
+            "duration": 0.349
         }, {
             "part": "milke bhi",
             "note": "b4",
@@ -457,218 +457,218 @@
         }, {
             "part": "tu jane na",
             "note": "a4",
-            "duration": 0.865
+            "duration": 0.915
         }, {
             "note": "b4",
-            "duration": 0.283
+            "duration": 0.33299999999999996
         }, {
             "note": "b4",
-            "duration": 0.678
+            "duration": 0.7280000000000001
         }, {
             "note": "b4",
+            "duration": 0.367
+        }, {
+            "note": "c5",
+            "duration": 0.668
+        }, {
+            "note": "b4",
+            "duration": 0.329
+        }, {
+            "note": "a4",
+            "duration": 0.364
+        }, {
+            "note": "b4",
+            "duration": 0.366
+        }, {
+            "note": "b4",
+            "duration": 0.623
+        }, {
+            "note": "b4",
+            "duration": 0.33699999999999997
+        }, {
+            "note": "c5",
+            "duration": 0.627
+        }, {
+            "note": "b4",
+            "duration": 0.347
+        }, {
+            "note": "g4",
+            "duration": 0.33599999999999997
+        }, {
+            "note": "a4",
+            "duration": 0.358
+        }, {
+            "note": "a4",
+            "duration": 0.654
+        }, {
+            "note": "a4",
+            "duration": 0.346
+        }, {
+            "note": "c5",
+            "duration": 0.621
+        }, {
+            "note": "b4",
+            "duration": 0.383
+        }, {
+            "note": "g4",
+            "duration": 0.33599999999999997
+        }, {
+            "note": "f4#",
+            "duration": 0.351
+        }, {
+            "note": "a4",
+            "duration": 2.182
+        }, {
+            "note": "b4",
+            "duration": 0.35
+        }, {
+            "note": "b4",
+            "duration": 0.656
+        }, {
+            "note": "b4",
+            "duration": 0.355
+        }, {
+            "note": "c5",
+            "duration": 0.645
+        }, {
+            "note": "b4",
+            "duration": 0.349
+        }, {
+            "note": "a4",
+            "duration": 0.348
+        }, {
+            "note": "b4",
+            "duration": 0.349
+        }, {
+            "note": "b4",
+            "duration": 0.667
+        }, {
+            "note": "b4",
+            "duration": 0.361
+        }, {
+            "note": "d5",
             "duration": 0.317
         }, {
             "note": "c5",
-            "duration": 0.618
+            "duration": 0.34299999999999997
         }, {
             "note": "b4",
-            "duration": 0.279
-        }, {
-            "note": "a4",
-            "duration": 0.314
-        }, {
-            "note": "b4",
-            "duration": 0.316
-        }, {
-            "note": "b4",
-            "duration": 0.573
-        }, {
-            "note": "b4",
-            "duration": 0.287
-        }, {
-            "note": "c5",
-            "duration": 0.577
-        }, {
-            "note": "b4",
-            "duration": 0.297
+            "duration": 0.33799999999999997
         }, {
             "note": "g4",
-            "duration": 0.286
+            "duration": 0.365
         }, {
             "note": "a4",
-            "duration": 0.308
+            "duration": 0.33199999999999996
         }, {
             "note": "a4",
-            "duration": 0.604
+            "duration": 0.639
         }, {
             "note": "a4",
-            "duration": 0.296
+            "duration": 0.357
         }, {
             "note": "c5",
-            "duration": 0.571
+            "duration": 0.655
         }, {
             "note": "b4",
-            "duration": 0.333
+            "duration": 0.33499999999999996
         }, {
             "note": "g4",
-            "duration": 0.286
+            "duration": 0.348
         }, {
             "note": "f4#",
-            "duration": 0.301
-        }, {
-            "note": "a4",
-            "duration": 2.132
-        }, {
-            "note": "b4",
-            "duration": 0.3
-        }, {
-            "note": "b4",
-            "duration": 0.606
-        }, {
-            "note": "b4",
-            "duration": 0.305
-        }, {
-            "note": "c5",
-            "duration": 0.595
-        }, {
-            "note": "b4",
-            "duration": 0.299
-        }, {
-            "note": "a4",
-            "duration": 0.298
-        }, {
-            "note": "b4",
-            "duration": 0.299
-        }, {
-            "note": "b4",
-            "duration": 0.617
-        }, {
-            "note": "b4",
-            "duration": 0.311
-        }, {
-            "note": "d5",
-            "duration": 0.267
-        }, {
-            "note": "c5",
-            "duration": 0.293
-        }, {
-            "note": "b4",
-            "duration": 0.288
-        }, {
-            "note": "g4",
-            "duration": 0.315
-        }, {
-            "note": "a4",
-            "duration": 0.282
-        }, {
-            "note": "a4",
-            "duration": 0.589
-        }, {
-            "note": "a4",
-            "duration": 0.307
-        }, {
-            "note": "c5",
-            "duration": 0.605
-        }, {
-            "note": "b4",
-            "duration": 0.285
-        }, {
-            "note": "g4",
-            "duration": 0.298
+            "duration": 0.329
         }, {
             "note": "f4#",
-            "duration": 0.279
-        }, {
-            "note": "f4#",
-            "duration": 0.601
+            "duration": 0.651
         }, {
             "note": "g4",
-            "duration": 0.281
+            "duration": 0.331
         }, {
             "note": "e4",
-            "duration": 0.316
+            "duration": 0.366
         }, {
             "note": "f4#",
-            "duration": 0.585
+            "duration": 0.635
         }, {
             "note": "g4",
-            "duration": 0.302
+            "duration": 0.352
         }, {
             "note": "b4",
-            "duration": 1.509
+            "duration": 1.559
         }, {
             "note": "a4",
-            "duration": 0.284
+            "duration": 0.33399999999999996
         }, {
             "note": "c5",
-            "duration": 0.295
+            "duration": 0.345
         }, {
             "note": "b4",
-            "duration": 0.316
+            "duration": 0.366
         }, {
             "note": "a4",
-            "duration": 0.305
+            "duration": 0.355
         }, {
             "note": "f4#",
-            "duration": 0.593
+            "duration": 0.643
         }, {
             "note": "g4",
-            "duration": 0.301
+            "duration": 0.351
         }, {
             "note": "e4",
-            "duration": 0.318
+            "duration": 0.368
         }, {
             "note": "f4#",
-            "duration": 0.6
+            "duration": 0.65
         }, {
             "note": "g4",
-            "duration": 0.27
+            "duration": 0.32
         }, {
             "note": "f4#",
-            "duration": 3.215
+            "duration": 3.2649999999999997
         }, {
             "note": "g4",
-            "duration": 0.29
+            "duration": 0.33999999999999997
         }, {
             "note": "e4",
-            "duration": 0.296
+            "duration": 0.346
         }, {
             "note": "f4#",
-            "duration": 0.576
+            "duration": 0.626
         }, {
             "note": "g4",
-            "duration": 0.303
+            "duration": 0.353
         }, {
             "note": "b4",
-            "duration": 1.53
+            "duration": 1.58
         }, {
             "note": "a4",
-            "duration": 0.303
+            "duration": 0.353
         }, {
             "note": "c5",
-            "duration": 0.272
+            "duration": 0.322
         }, {
             "note": "b4",
-            "duration": 0.314
+            "duration": 0.364
         }, {
             "note": "a4",
-            "duration": 0.287
+            "duration": 0.33699999999999997
         }, {
             "note": "f4#",
-            "duration": 0.573
+            "duration": 0.623
         }, {
             "note": "g4",
-            "duration": 0.299
+            "duration": 0.349
         }, {
             "note": "e4",
-            "duration": 0.292
+            "duration": 0.34199999999999997
         }, {
             "note": "f4#",
-            "duration": 0.585
+            "duration": 0.635
         }, {
             "part-finish": "tu jane na",
             "note": "g4",
-            "duration": 0.299
+            "duration": 0.349
         }, {
             "part": "nigahon mein",
             "note": "d5",
@@ -1097,218 +1097,218 @@
         }, {
             "part": "tu jane na",
             "note": "a4",
-            "duration": 0.865
+            "duration": 0.915
         }, {
             "note": "b4",
-            "duration": 0.283
+            "duration": 0.33299999999999996
         }, {
             "note": "b4",
-            "duration": 0.678
+            "duration": 0.7280000000000001
         }, {
             "note": "b4",
+            "duration": 0.367
+        }, {
+            "note": "c5",
+            "duration": 0.668
+        }, {
+            "note": "b4",
+            "duration": 0.329
+        }, {
+            "note": "a4",
+            "duration": 0.364
+        }, {
+            "note": "b4",
+            "duration": 0.366
+        }, {
+            "note": "b4",
+            "duration": 0.623
+        }, {
+            "note": "b4",
+            "duration": 0.33699999999999997
+        }, {
+            "note": "c5",
+            "duration": 0.627
+        }, {
+            "note": "b4",
+            "duration": 0.347
+        }, {
+            "note": "g4",
+            "duration": 0.33599999999999997
+        }, {
+            "note": "a4",
+            "duration": 0.358
+        }, {
+            "note": "a4",
+            "duration": 0.654
+        }, {
+            "note": "a4",
+            "duration": 0.346
+        }, {
+            "note": "c5",
+            "duration": 0.621
+        }, {
+            "note": "b4",
+            "duration": 0.383
+        }, {
+            "note": "g4",
+            "duration": 0.33599999999999997
+        }, {
+            "note": "f4#",
+            "duration": 0.351
+        }, {
+            "note": "a4",
+            "duration": 2.182
+        }, {
+            "note": "b4",
+            "duration": 0.35
+        }, {
+            "note": "b4",
+            "duration": 0.656
+        }, {
+            "note": "b4",
+            "duration": 0.355
+        }, {
+            "note": "c5",
+            "duration": 0.645
+        }, {
+            "note": "b4",
+            "duration": 0.349
+        }, {
+            "note": "a4",
+            "duration": 0.348
+        }, {
+            "note": "b4",
+            "duration": 0.349
+        }, {
+            "note": "b4",
+            "duration": 0.667
+        }, {
+            "note": "b4",
+            "duration": 0.361
+        }, {
+            "note": "d5",
             "duration": 0.317
         }, {
             "note": "c5",
-            "duration": 0.618
+            "duration": 0.34299999999999997
         }, {
             "note": "b4",
-            "duration": 0.279
-        }, {
-            "note": "a4",
-            "duration": 0.314
-        }, {
-            "note": "b4",
-            "duration": 0.316
-        }, {
-            "note": "b4",
-            "duration": 0.573
-        }, {
-            "note": "b4",
-            "duration": 0.287
-        }, {
-            "note": "c5",
-            "duration": 0.577
-        }, {
-            "note": "b4",
-            "duration": 0.297
+            "duration": 0.33799999999999997
         }, {
             "note": "g4",
-            "duration": 0.286
+            "duration": 0.365
         }, {
             "note": "a4",
-            "duration": 0.308
+            "duration": 0.33199999999999996
         }, {
             "note": "a4",
-            "duration": 0.604
+            "duration": 0.639
         }, {
             "note": "a4",
-            "duration": 0.296
+            "duration": 0.357
         }, {
             "note": "c5",
-            "duration": 0.571
+            "duration": 0.655
         }, {
             "note": "b4",
-            "duration": 0.333
+            "duration": 0.33499999999999996
         }, {
             "note": "g4",
-            "duration": 0.286
+            "duration": 0.348
         }, {
             "note": "f4#",
-            "duration": 0.301
-        }, {
-            "note": "a4",
-            "duration": 2.132
-        }, {
-            "note": "b4",
-            "duration": 0.3
-        }, {
-            "note": "b4",
-            "duration": 0.606
-        }, {
-            "note": "b4",
-            "duration": 0.305
-        }, {
-            "note": "c5",
-            "duration": 0.595
-        }, {
-            "note": "b4",
-            "duration": 0.299
-        }, {
-            "note": "a4",
-            "duration": 0.298
-        }, {
-            "note": "b4",
-            "duration": 0.299
-        }, {
-            "note": "b4",
-            "duration": 0.617
-        }, {
-            "note": "b4",
-            "duration": 0.311
-        }, {
-            "note": "d5",
-            "duration": 0.267
-        }, {
-            "note": "c5",
-            "duration": 0.293
-        }, {
-            "note": "b4",
-            "duration": 0.288
-        }, {
-            "note": "g4",
-            "duration": 0.315
-        }, {
-            "note": "a4",
-            "duration": 0.282
-        }, {
-            "note": "a4",
-            "duration": 0.589
-        }, {
-            "note": "a4",
-            "duration": 0.307
-        }, {
-            "note": "c5",
-            "duration": 0.605
-        }, {
-            "note": "b4",
-            "duration": 0.285
-        }, {
-            "note": "g4",
-            "duration": 0.298
+            "duration": 0.329
         }, {
             "note": "f4#",
-            "duration": 0.279
-        }, {
-            "note": "f4#",
-            "duration": 0.601
+            "duration": 0.651
         }, {
             "note": "g4",
-            "duration": 0.281
+            "duration": 0.331
         }, {
             "note": "e4",
-            "duration": 0.316
+            "duration": 0.366
         }, {
             "note": "f4#",
-            "duration": 0.585
+            "duration": 0.635
         }, {
             "note": "g4",
-            "duration": 0.302
+            "duration": 0.352
         }, {
             "note": "b4",
-            "duration": 1.509
+            "duration": 1.559
         }, {
             "note": "a4",
-            "duration": 0.284
+            "duration": 0.33399999999999996
         }, {
             "note": "c5",
-            "duration": 0.295
+            "duration": 0.345
         }, {
             "note": "b4",
-            "duration": 0.316
+            "duration": 0.366
         }, {
             "note": "a4",
-            "duration": 0.305
+            "duration": 0.355
         }, {
             "note": "f4#",
-            "duration": 0.593
+            "duration": 0.643
         }, {
             "note": "g4",
-            "duration": 0.301
+            "duration": 0.351
         }, {
             "note": "e4",
-            "duration": 0.318
+            "duration": 0.368
         }, {
             "note": "f4#",
-            "duration": 0.6
+            "duration": 0.65
         }, {
             "note": "g4",
-            "duration": 0.27
+            "duration": 0.32
         }, {
             "note": "f4#",
-            "duration": 3.215
+            "duration": 3.2649999999999997
         }, {
             "note": "g4",
-            "duration": 0.29
+            "duration": 0.33999999999999997
         }, {
             "note": "e4",
-            "duration": 0.296
+            "duration": 0.346
         }, {
             "note": "f4#",
-            "duration": 0.576
+            "duration": 0.626
         }, {
             "note": "g4",
-            "duration": 0.303
+            "duration": 0.353
         }, {
             "note": "b4",
-            "duration": 1.53
+            "duration": 1.58
         }, {
             "note": "a4",
-            "duration": 0.303
+            "duration": 0.353
         }, {
             "note": "c5",
-            "duration": 0.272
+            "duration": 0.322
         }, {
             "note": "b4",
-            "duration": 0.314
+            "duration": 0.364
         }, {
             "note": "a4",
-            "duration": 0.287
+            "duration": 0.33699999999999997
         }, {
             "note": "f4#",
-            "duration": 0.573
+            "duration": 0.623
         }, {
             "note": "g4",
-            "duration": 0.299
+            "duration": 0.349
         }, {
             "note": "e4",
-            "duration": 0.292
+            "duration": 0.34199999999999997
         }, {
             "note": "f4#",
-            "duration": 0.585
+            "duration": 0.635
         }, {
             "part-finish": "tu jane na",
             "note": "g4",
-            "duration": 0.299
+            "duration": 0.349
         }
     ]
 }
