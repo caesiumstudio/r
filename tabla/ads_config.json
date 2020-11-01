@@ -1,6 +1,6 @@
 {
-    "isBannerAdEnabled": false,
-    "isInterstitialAdEnabled": false,
+    "isBannerAdEnabled": true,
+    "isInterstitialAdEnabled": true,
     "isVideoAdEnabled": false,
     "isHomeScreenAdEnabled": true,
     "homeScreenAdInfo": {
