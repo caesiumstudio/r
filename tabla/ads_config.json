@@ -1,8 +1,8 @@
 {
-    "isBannerAdEnabled": true,
-    "isInterstitialAdEnabled": true,
+    "isBannerAdEnabled": false,
+    "isInterstitialAdEnabled": false,
     "isVideoAdEnabled": false,
-    "isHomeScreenAdEnabled": true,
+    "isHomeScreenAdEnabled": false,
     "homeScreenAdInfo": {
         "link": "https://www.youtube.com/watch?v=qS6KFKgSFTE",
         "imgUrl": "https://caesiumstudio.github.io/r/tabla/teentaal.png"
