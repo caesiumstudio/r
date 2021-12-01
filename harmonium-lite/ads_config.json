@@ -1,8 +1,8 @@
 {
-    "isBannerAdEnabled": false,
-    "isInterstitialAdEnabled": false,
-    "isVideoAdEnabled": false,
-    "isHomeScreenAdEnabled": false,
+    "isBannerAdEnabled": true,
+    "isInterstitialAdEnabled": true,
+    "isVideoAdEnabled": true,
+    "isHomeScreenAdEnabled": true,
     "homeScreenAdInfo": {
         "link": "https://www.youtube.com/watch?v=utDGfPpAPBM",
         "imgUrl": "https://caesiumstudio.github.io/r/img/alankar2.png"
