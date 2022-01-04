@@ -1,4 +1,8 @@
 {
     "PAYPAL": "Am+nFov21zUmIVLZ3g2QSNbKVL0jPEinLrtOCM1LYZgOJmz38yKYEI3a7Frpz2AgwN/uOZ2I4NtMhXGrJrfrIITgkoZ3hJ+XTI3GU/fFaGYEw5P3vqQ/62/7vrjglBPAA5gJnkjYBTIfmsvKgRue5Zp1KPqm0UQeobeuvxiPfbY=",
-    "YOUTUBE": "https://www.youtube.com/watch?v=fJH8n7iZx5k"
+    "YOUTUBE": "https://www.youtube.com/watch?v=fJH8n7iZx5k",
+    "AD_DATA": {
+        "link_href": "https://www.facebook.com",
+        "link_text": "Open Facebook"
+    }
 }
