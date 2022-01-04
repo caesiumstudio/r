@@ -3,6 +3,7 @@
     "YOUTUBE": "https://www.youtube.com/watch?v=fJH8n7iZx5k",
     "AD_DATA": {
         "link_href": "https://www.facebook.com",
-        "link_text": "Open Facebook"
+        "link_text": "Open Facebook",
+        "isAdVisible": "true"
     }
 }
