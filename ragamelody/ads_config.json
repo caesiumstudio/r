@@ -3,8 +3,8 @@
     "showInterstitialAds": true,
     "showVideoAds": true,
     "showHomeScreenAds": true,
-    "homeScreenAdsInfo": {
-        "link": "https://www.youtube.com/watch?v=n3uLU-63lgM",
-        "url": "https://caesiumstudio.github.io/r/img/pardesi.png"
+    "homeScreenAdInfo": {
+        "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.piano",
+        "imgUrl": "https://caesiumstudio.github.io/r/img/piano.png"
     }
 }
