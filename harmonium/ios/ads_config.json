@@ -1,0 +1,11 @@
+{
+    "isBannerAdEnabled": true,
+    "isInterstitialAdEnabled": false,
+    "isVideoAdEnabled": false,
+    "isHomeScreenAdEnabled": true,
+    "appOpenAd": false,
+    "homeScreenAdInfo": {
+        "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.piano",
+        "imgUrl": "https://caesiumstudio.github.io/r/img/piano-landscape.png"
+    }
+}
