@@ -2,7 +2,8 @@
     "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": false,
     "isVideoAdEnabled": false,
-    "isHomeScreenAdEnabled": false,    
+    "isHomeScreenAdEnabled": false,
+    "isAppOpenAdEnabled": false,
     "homeScreenAdInfo": {
         "link": "https://www.youtube.com/watch?v=l_2TtywBr8Q",
         "imgUrl": "https://caesiumstudio.github.io/r/img/tujanena-small-piano.png"
