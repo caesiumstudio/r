@@ -2,6 +2,7 @@
     "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": false,
     "isVideoAdEnabled": false,
+    "isSubscriptionOffered": true,
     "isHomeScreenAdEnabled": true,
     "isAppOpenAdEnabled": true,
     "homeScreenAdInfo": {
