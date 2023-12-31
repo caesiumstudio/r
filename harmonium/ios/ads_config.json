@@ -5,7 +5,7 @@
     "isSubscriptionOffered": true,
     "isHomeScreenAdEnabled": true,
     "discountPercent": 0.30,
-    "discountImage": "https://caesiumstudio.github.io/r/img/2024.png",
+    "discountImage": "https://caesiumstudio.github.io/r/img/discountImage.png",
     "isAppOpenAdEnabled": true,
     "homeScreenAdInfo": {
         "link": "https://apps.apple.com/us/app/piano-real-sounds-keyboard/id6450960532",
