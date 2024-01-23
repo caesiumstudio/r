@@ -1,6 +1,6 @@
 {
-    "showBannerAds": true,
-    "showInterstitialAds": true,
+    "showBannerAds": false,
+    "showInterstitialAds": false,
     "showVideoAds": true,
     "showHomeScreenAds": true,
     "homeScreenAdInfo": {
