@@ -1,9 +1,9 @@
 {
     "isBannerAdEnabled": true,
-    "isInterstitialAdEnabled": false,
+    "isInterstitialAdEnabled": true,
     "isVideoAdEnabled": false,
     "isHomeScreenAdEnabled": true,
-    "isAppOpenAdEnabled": false,
+    "isAppOpenAdEnabled": true,
     "isSubscriptionOffered": true,
     "discountPercent": 0.50,
     "discountImage": "https://caesiumstudio.github.io/r/img/discountImage.png",
