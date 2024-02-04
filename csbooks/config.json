@@ -4,6 +4,9 @@
     "AD_DATA": {
         "link_href": "https://www.patreon.com/caesiumstudio",
         "link_text": "Support on Patreon",
-        "isAdVisible": "true"
+        "isAdVisible": "true",
+        "showOnMAC": "true",
+        "showOnWINDOWS": "true",
+        "showOnLINUX": "true"
     }
 }
