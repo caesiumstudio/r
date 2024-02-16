@@ -2,9 +2,13 @@
     "isBannerAdEnabled": true,
     "isInterstitialAdEnabled": true,
     "isVideoAdEnabled": false,
+    "isSubscriptionOffered": true,
     "isHomeScreenAdEnabled": true,
+    "discountPercent": 0.50,
+    "discountImage": "https://caesiumstudio.github.io/r/img/discountImage.png",
+    "isAppOpenAdEnabled": true,
     "homeScreenAdInfo": {
         "link": "https://apps.apple.com/us/app/piano-real-sounds-keyboard/id6450960532",
-        "imgUrl": "https://caesiumstudio.github.io/r/tabla/piano.png"
+        "imgUrl": "https://caesiumstudio.github.io/r/img/piano-ad.png"
     }
 }
