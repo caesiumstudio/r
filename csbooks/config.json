@@ -6,9 +6,9 @@
         "link_text": "Support on Patreon",
         "isAdVisible": true,
 
-        "showOnMAC": false,
+        "showOnMAC": true,
         "showOnWINDOWS": true,
-        "showOnLINUX": false,
+        "showOnLINUX": true,
 
         "linkWINDOWS": "ms-windows-store://pdp/?ProductId=9PDTZMM8R938",
         "linuxLINUX": "https://www.patreon.com/caesiumstudio",
