@@ -5,8 +5,17 @@
         "link_href": "https://www.patreon.com/caesiumstudio",
         "link_text": "Support on Patreon",
         "isAdVisible": true,
-        "showOnMAC": false,
+
+        "showOnMAC": true,
         "showOnWINDOWS": true,
-        "showOnLINUX": true
+        "showOnLINUX": true,
+
+        "linkWINDOWS": "ms-windows-store://pdp/?ProductId=9PDTZMM8R938",
+        "linuxLINUX": "https://www.patreon.com/caesiumstudio",
+        "linkMAC": "",
+
+        "textWINDOWS": "Rate on Microsoft Store",
+        "textLINUX": "Support on Patreon",
+        "textMAC": "Rate on AppStore"
     }
 }
