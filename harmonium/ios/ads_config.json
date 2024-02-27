@@ -1,6 +1,6 @@
 {
     "isBannerAdEnabled": true,
-    "isInterstitialAdEnabled": true,
+    "isInterstitialAdEnabled": false,
     "isVideoAdEnabled": false,
     "isSubscriptionOffered": true,
     "isHomeScreenAdEnabled": true,
