@@ -11,11 +11,11 @@
         "showOnLINUX": true,
 
         "linkWINDOWS": "ms-windows-store://pdp/?ProductId=9PDTZMM8R938",
-        "linkLINUX": "https://www.patreon.com/caesiumstudio",
-        "linkMAC": "https://www.patreon.com/caesiumstudio",
+        "linkLINUX": "https://caesiumstudio.com/csbooks-mobile",
+        "linkMAC": "https://caesiumstudio.com/csbooks-mobile",
 
         "textWINDOWS": "Rate on Microsoft Store",
-        "textLINUX": "Buy developer a coffee :)",
-        "textMAC": "Buy developer a coffee :)"
+        "textLINUX": "Download Mobile App",
+        "textMAC": "Download Mobile App"
     }
 }
