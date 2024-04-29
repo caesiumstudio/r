@@ -10,7 +10,7 @@
         "showOnWINDOWS": true,
         "showOnLINUX": true,
 
-        "linkWINDOWS": "ms-windows-store://pdp/?ProductId=9PDTZMM8R938",
+        "linkWINDOWS": "https://caesiumstudio.com/csbooks-mobile",
         "linkLINUX": "https://caesiumstudio.com/csbooks-mobile",
         "linkMAC": "https://caesiumstudio.com/csbooks-mobile",
 
