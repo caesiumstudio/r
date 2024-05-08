@@ -10,9 +10,9 @@
         "showOnWINDOWS": true,
         "showOnLINUX": true,
 
-        "linkWINDOWS": "https://caesiumstudio.com/csbooks-mobile-app-android-ios",
-        "linkLINUX": "https://caesiumstudio.com/csbooks-mobile-app-android-ios",
-        "linkMAC": "https://caesiumstudio.com/csbooks-mobile-app-android-ios",
+        "linkWINDOWS": "https://caesiumstudio.com/csbooks-mobile-app-android-ios?os=win",
+        "linkLINUX": "https://caesiumstudio.com/csbooks-mobile-app-android-ios?os=linux",
+        "linkMAC": "https://caesiumstudio.com/csbooks-mobile-app-android-ios?os=mac",
 
         "textWINDOWS": "Download Mobile App",
         "textLINUX": "Download Mobile App",
