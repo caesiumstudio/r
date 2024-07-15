@@ -1,7 +1,7 @@
 {
-    "showBannerAds": false,
-    "showInterstitialAds": true,
-    "showVideoAds": true,
+    "showBannerAds": true,
+    "showInterstitialAds": false,
+    "showVideoAds": false,
     "showHomeScreenAds": true,
     "homeScreenAdInfo": {
         "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.piano",
