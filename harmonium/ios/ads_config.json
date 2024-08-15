@@ -4,7 +4,7 @@
     "isVideoAdEnabled": false,
     "isSubscriptionOffered": true,
     "isHomeScreenAdEnabled": true,
-    "discountPercent": 0.40,
+    "discountPercent": 0.50,
     "discountImage": "https://caesiumstudio.github.io/r/img/discountImage.png",
     "isAppOpenAdEnabled": true,
     "homeScreenAdInfo": {

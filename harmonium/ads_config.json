@@ -5,7 +5,7 @@
     "isHomeScreenAdEnabled": true,
     "isAppOpenAdEnabled": true,
     "isSubscriptionOffered": true,
-    "discountPercent": 0.40,
+    "discountPercent": 0.50,
     "discountImage": "https://caesiumstudio.github.io/r/img/discountImage.png",
     "homeScreenAdInfo": {
         "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.piano",
