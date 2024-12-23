@@ -16,7 +16,7 @@
         "linkLINUX": "https://caesiumstudio.com/csbooks-mobile-app-android-ios?os=linux",
         "linkMAC": "https://caesiumstudio.com/csbooks-mobile-app-android-ios?os=mac",
 
-        "textWINDOWS": "Download Mobile App",
+        "textWINDOWS": "<img src=\"https://caesiumstudio.github.io/r/img/csbooks-banner.png\" style=\"width: 100%;image-rendering: pixelated;\"/>",
         "textLINUX": "Download Mobile App",
         "textMAC": "Download Mobile App"
     }
