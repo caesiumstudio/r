@@ -16,7 +16,7 @@
         "linkLINUX": "https://caesiumstudio.com/csbooks?device=mobile",
         "linkMAC": "https://caesiumstudio.com/csbooks?device=mobile",
 
-        "textWINDOWS": "<img src=\"https://caesiumstudio.github.io/r/img/csbooks-banner.png\" style=\"width: 100%;image-rendering: pixelated;\"/>",
+        "textWINDOWS": "<div style=\"background: #313131;padding: 8px;border-radius: 4px;color: white;font-weight: bold;\">Get Mobile App</div>",
         "textLINUX": "<img src=\"https://caesiumstudio.github.io/r/img/csbooks-banner.png\" style=\"width: 100%;image-rendering: pixelated;\"/>",
         "textMAC": "<div style=\"height: 32px; background: #002d54; align-items: center; text-align: center; display: flex; flex-direction: column; border-radius: 6px; justify-content: center; color: white; font-size: 1.1em;\">Get App for Mobile</div>"
     }
