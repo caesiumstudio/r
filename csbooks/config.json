@@ -16,8 +16,8 @@
         "linkLINUX": "https://caesiumstudio.com/csbooks?device=mobile",
         "linkMAC": "https://caesiumstudio.com/csbooks?device=mobile",
 
-        "textWINDOWS": "<div style=\"background: #313131;padding: 8px;border-radius: 4px;color: white;font-weight: bold;\">Get Mobile App</div>",
-        "textLINUX": "<div style=\"background: #313131;padding: 8px;border-radius: 4px;color: white;font-weight: bold;\">Get Mobile App</div>",
-        "textMAC": "<div style=\"height: 32px; background: #002d54; align-items: center; text-align: center; display: flex; flex-direction: column; border-radius: 6px; justify-content: center; color: white; font-size: 1.1em;\">Get App for Mobile</div>"
+        "textWINDOWS": "<div style=\"background: #313131;padding: 8px;border-radius: 4px;color: white;font-weight: bold;\">Sync on Mobile</div>",
+        "textLINUX": "<div style=\"background: #313131;padding: 8px;border-radius: 4px;color: white;font-weight: bold;\">Sync on Mobile</div>",
+        "textMAC": "<div style=\"background: #313131;padding: 8px;border-radius: 4px;color: white;font-weight: bold;\">Sync on Mobile</div>"
     }
 }
