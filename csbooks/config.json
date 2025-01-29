@@ -8,7 +8,7 @@
         "link_text": "Support on Patreon",
         "isAdVisible": true,
 
-        "showOnMAC": false,
+        "showOnMAC": true,
         "showOnWINDOWS": true,
         "showOnLINUX": true,
 
