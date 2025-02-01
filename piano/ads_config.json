@@ -4,6 +4,8 @@
     "isVideoAdEnabled": false,
     "isHomeScreenAdEnabled": false,
     "isAppOpenAdEnabled": true,
+    "discountPercent": 0.50,
+    "discountImage": "https://caesiumstudio.github.io/r/img/discountImage.png",
     "homeScreenAdInfo": {
         "link": "https://www.youtube.com/watch?v=l_2TtywBr8Q",
         "imgUrl": "https://caesiumstudio.github.io/r/img/tujanena-small-piano.png"
