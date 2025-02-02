@@ -5,6 +5,7 @@
     "isHomeScreenAdEnabled": false,
     "isAppOpenAdEnabled": true,
     "discountPercent": 0.50,
+    "isSubscriptionOffered": true,
     "discountImage": "https://caesiumstudio.github.io/r/img/discountImage.png",
     "homeScreenAdInfo": {
         "link": "https://www.youtube.com/watch?v=l_2TtywBr8Q",
