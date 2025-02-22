@@ -5,7 +5,7 @@
     "headerVideo": "https://www.youtube.com/embed/kOpVBJqstuk",
     "type": "POLICY",
     "audioNotes": {},
-    "body": "p-home.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/p-home.md"
   },
   "p-piano.html": {
     "headerText": "Piano App",
@@ -15,7 +15,7 @@
     "urlIOSApp": "https://apps.apple.com/in/app/piano-real-sounds-keyboard/id6450960532",
     "type": "ADVERT",
     "audioNotes": {},
-    "body": "p-piano.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/p-piano.md"
   },
   "p-harmonium.html": {
     "headerText": "Harmonium - Real Sounds",
@@ -25,7 +25,7 @@
     "urlAndroidApp": "https://play.google.com/store/apps/details?id=com.caesiumgames.harmonium",
     "urlIOSApp": "https://apps.apple.com/in/app/harmonium-real-sounds-raga/id6451088024",
     "audioNotes": {},
-    "body": "p-harmonium.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/p-harmonium.md"
   },
   "p-tabla.html": {
     "headerText": "Tabla - Indian Classical Drums",
@@ -34,7 +34,7 @@
     "urlAndroidApp": "https://play.google.com/store/apps/details?id=com.caesiumstudio.tabla",
     "type": "ADVERT",
     "audioNotes": {},
-    "body": "p-tabla.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/p-tabla.md"
   },
   "p-jal-tarang.html": {
     "headerText": "Jal Tarang - Indian Water Instrument",
@@ -43,7 +43,7 @@
     "urlAndroidApp": "https://play.google.com/store/apps/details?id=com.caesiumstudio.jaltarang",
     "type": "ADVERT",
     "audioNotes": {},
-    "body": "p-jal-tarang.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/p-jal-tarang.md"
   },
   "p-privacy-policy.html": {
     "headerText": "Privacy Policy.",
@@ -51,13 +51,13 @@
     "headerVideo": "",
     "type": "POLICY",
     "audioNotes": {},
-    "body": "p-privacy-policy.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/p-privacy-policy.md"
   },
   "2011-01-alankar-saralies.html": {
     "headerText": "Alankar Saralies - The basics of indian classical music",
     "headerImage": "",
     "url": "/2011/01/alankar-saralies.html",
-    "cardImage": "/img/alankars2.jpg",
+    "cardImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/alankars2.jpg",
     "headerVideo": "https://www.youtube.com/embed/QSxnsEpgC1k",
     "type": "RAGA",
     "audioNotes": {
@@ -101,11 +101,11 @@
         "Sa Sa Re Re Ga Ga Ma Ma Re Re Ga Ga Ma Ma Pa Pa Ga Ga Ma Ma Pa Pa Dha Dha Ma Ma Pa Pa Dha Dha Ne Ne Pa Pa Dha Dha Ne Ne SA SA SA SA Ne Ne Dha Dha Pa Pa Ne Ne Dha Dha Pa Pa Ma Ma Dha Dha Pa Pa Ma Ma Ga Ga Pa Pa Ma Ma Ga Ga Re Re Ma Ma Ga Ga Re Re Sa Sa"
       ]
     },
-    "body": "2011-01-alankar-saralies.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2011-01-alankar-saralies.md"
   },
   "2011-01-raga-bhoop-bhoopali.html": {
     "headerText": "Raag Bhoop, Bhupali or Bhoopali with Notes, Lakshan Geet and Bandhish",
-    "headerImage": "/img/raga-bhoop.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/raga-bhoop.jpg",
     "url": "/2011/01/raga-bhoop-bhoopali.html",
     "headerVideo": "",
     "type": "RAGA",
@@ -126,169 +126,169 @@
         "dha Sa Re Ga Re Ga Re Sa Ga Pa Dha SA Ga Pa SA Ga Re Sa dha Re Sa dha pa Sa dha pa ga pa dha Sa Ga Ga Re Sa Re Re Sa dha Sa Sa dha pa ga pa dha Sa"
       ]
     },
-    "body": "2011-01-raga-bhoop-bhoopali.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2011-01-raga-bhoop-bhoopali.md"
   },
   "2011-02-raag-durga.html": {
     "headerText": "Raag Durga with Notes, Lakshan Geet and Bandhish - Download Pdf",
-    "headerImage": "/img/raga-durga.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/raga-durga.jpg",
     "url": "/2011/02/raag-durga.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2011-02-raag-durga.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2011-02-raag-durga.md"
   },
   "2017-01-raag-saranga.html": {
     "headerText": "Raag Saranga with Lakshan Geet, Notes and Bandhish with Download Pdf",
-    "headerImage": "/img/raga-sarang.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/raga-sarang.jpg",
     "url": "/2017/01/raag-saranga.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-01-raag-saranga.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-01-raag-saranga.md"
   },
   "2017-01-alankar-saralies-2-advanced.html": {
     "headerText": "Alankar Saralies 2 (Advanced), Sing along to improve the range of your voice.",
-    "cardImage": "/img/alankars2.jpg",
+    "cardImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/alankars2.jpg",
     "url": "/2017/01/alankar-saralies-2-advanced.html",
     "headerVideo": "https://www.youtube.com/embed/utDGfPpAPBM",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-01-alankar-saralies-2-advanced.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-01-alankar-saralies-2-advanced.md"
   },
   "2017-01-nava-rasa-rasas.html": {
     "headerText": "Nava Rasa (Rasas) Meaning and Usage in Indian Classical Music",
-    "headerImage": "/img/navarasa.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/navarasa.jpg",
     "url": "/2017/01/nava-rasa-rasas.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-01-nava-rasa-rasas.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-01-nava-rasa-rasas.md"
   },
   "2017-02-what-is-saragam.html": {
     "headerText": "What is Saragam or Sa Re Ga Ma? Where does Saragam or sa re ga ma come from?",
-    "headerImage": "/img/saragam.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/saragam.jpg",
     "url": "/2017/02/what-is-saragam.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-02-what-is-saragam.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-02-what-is-saragam.md"
   },
   "2017-02-ashta-prahar-ragas.html": {
     "headerText": "Ashta Prahar in Indian Classical Music (Times of days) and Raags for them",
-    "headerImage": "/img/ashta.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/ashta.jpg",
     "url": "/2017/02/ashta-prahar-ragas.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-02-ashta-prahar-ragas.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-02-ashta-prahar-ragas.md"
   },
   "2017-02-raga-bhairav-raga-bhairava.html": {
     "headerText": "Raag Bhairav or Bhairava with Lakshan Geet and Bandhish with Pdf Download",
-    "headerImage": "/img/raga-bhairav.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/raga-bhairav.jpg",
     "url": "/2017/02/raga-bhairav-raga-bhairava.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-02-raga-bhairav-raga-bhairava.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-02-raga-bhairav-raga-bhairava.md"
   },
   "2017-02-raga-des-raga-desh.html": {
     "headerText": "Raag Desh, Desh: With Lakshan Geet, Notes and Bandhish with Download Pdf",
-    "headerImage": "/img/raga-des.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/raga-des.jpg",
     "url": "/2017/02/raga-des-raga-desh.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-02-raga-des-raga-desh.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-02-raga-des-raga-desh.md"
   },
   "2017-02-5-ways-you-can-sing-better.html": {
     "headerText": "How to sing Raags and how to improve Singing. The best 5 ways to improve your singing",
-    "headerImage": "/img/singing.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/singing.jpg",
     "url": "/2017/02/5-ways-you-can-sing-better.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-02-5-ways-you-can-sing-better.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-02-5-ways-you-can-sing-better.md"
   },
   "2017-03-raaga-kedar-raga-kedara.html": {
     "headerText": "Raga Kedar or Raag Kedara: Learn its History, Origin and Facts with Download Pdf",
-    "headerImage": "/img/raga-kedar.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/raga-kedar.jpg",
     "url": "/2017/03/raaga-kedar-raga-kedara.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-03-raaga-kedar-raga-kedara.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-03-raaga-kedar-raga-kedara.md"
   },
   "2017-05-ragas-in-bollywood-music.html": {
     "headerText": "11 Best Raags Used In Bollywood Music",
-    "headerImage": "/img/bolly.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/bolly.jpg",
     "url": "/2017/05/ragas-in-bollywood-music.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-05-ragas-in-bollywood-music.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-05-ragas-in-bollywood-music.md"
   },
   "2017-05-raga-hamir-raaga-hameer.html": {
     "headerText": "Raag Hamir or Raaga Hameer and how to sing it with Pakad, Lakshan Geet and Bandhish with Pdf Download",
-    "headerImage": "/img/hamir.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/hamir.jpg",
     "url": "/2017/05/raga-hamir-raaga-hameer.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-05-raga-hamir-raaga-hameer.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-05-raga-hamir-raaga-hameer.md"
   },
   "2017-05-raag-kalavati-raga-kalawati.html": {
     "headerText": "Raag Kalavati and how to sing it with Aroh, Avaroh, Pakad, Lakshan Geet and Bandhish",
-    "headerImage": "/img/kalavati.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/kalavati.jpg",
     "url": "/2017/05/raag-kalavati-raga-kalawati.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-05-raag-kalavati-raga-kalawati.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-05-raag-kalavati-raga-kalawati.md"
   },
   "2017-05-hindustani-classical-music.html": {
     "headerText": "Guide to Hindustani Classical Music: You would never need anything else",
-    "headerImage": "/img/gaatha.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/gaatha.jpg",
     "url": "/2017/05/hindustani-classical-music.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-05-hindustani-classical-music.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-05-hindustani-classical-music.md"
   },
   "2017-05-play-instrument-as-singer.html": {
     "headerText": "Why You Should Learn an Instrument as a Vocalist?",
-    "headerImage": "/img/piano.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/piano.jpg",
     "url": "/2017/05/play-instrument-as-singer.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-05-play-instrument-as-singer.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-05-play-instrument-as-singer.md"
   },
   "2024-02-how-to-learn-harmonium.html": {
     "headerText": "How to Learn Harmonium the Easier Way",
-    "cardImage": "/img/harmonium.jpg",
+    "cardImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/harmonium.jpg",
     "url": "2024/02/how-to-learn-harmonium.html",
     "headerVideo": "https://www.youtube.com/embed/y_nKvH6B_Hg",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2024-02-how-to-learn-harmonium.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2024-02-how-to-learn-harmonium.md"
   },
   "2017-06-10-most-important-thaats-in-hindustani.html": {
     "headerText": "10 Thaats in Hindustani Classical Music: Most Important",
-    "headerImage": "/img/indianart.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/indianart.jpg",
     "url": "/2017/06/10-most-important-thaats-in-hindustani.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-06-10-most-important-thaats-in-hindustani.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-06-10-most-important-thaats-in-hindustani.md"
   },
   "2017-06-sruti-in-hindustani-class-music.html": {
     "headerText": "What are Sruti or Shruti in Hindustani Classical Music: History Origin and Facts",
-    "headerImage": "/img/sitar.png",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/sitar.png",
     "url": "/2017/06/sruti-in-hindustani-class-music.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-06-sruti-in-hindustani-class-music.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-06-sruti-in-hindustani-class-music.md"
   },
   "2017-10-raga-yaman.html": {
     "headerText": "Raag Yaman with Saragam, Notes, Bandhish and Lakshan Geet with Pdf Download",
@@ -297,97 +297,97 @@
     "headerVideo": "https://www.youtube.com/embed/n3uLU-63lgM",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-10-raga-yaman.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-10-raga-yaman.md"
   },
   "2017-12-raga-asavari-asaavari.html": {
     "headerText": "Raag Asavari /Asaavari with Notes and Saragam",
-    "headerImage": "/img/deer.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/deer.jpg",
     "url": "/2017/12/raga-asavari-asaavari.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2017-12-raga-asavari-asaavari.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-12-raga-asavari-asaavari.md"
   },
   "2017-12-jaatis-of-ragas-difference-between.html": {
     "headerText": "Jaatis of Raags - Difference between Thaats and Jaati of Raag",
-    "headerImage": "/img/jaati.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/jaati.jpg",
     "url": "/2017/12/jaatis-of-ragas-difference-between.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-12-jaatis-of-ragas-difference-between.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-12-jaatis-of-ragas-difference-between.md"
   },
   "2017-12-facts-about-instruments-of-indian.html": {
     "headerText": "Which String Instruments are used in Indian Classical Music: History, Origin and Facts about them",
-    "headerImage": "/img/instru.png",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/instru.png",
     "url": "/2017/12/facts-about-instruments-of-indian.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-12-facts-about-instruments-of-indian.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-12-facts-about-instruments-of-indian.md"
   },
   "2017-12-percussion-instruments-of-indian.html": {
     "headerText": "Percussion Instruments of Indian Classical Music: History, Origin and Facts",
-    "headerImage": "/img/musicnotes.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/musicnotes.jpg",
     "url": "/2017/12/percussion-instruments-of-indian.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2017-12-percussion-instruments-of-indian.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2017-12-percussion-instruments-of-indian.md"
   },
   "2018-01-wind-instrument-of-indian-classical.html": {
     "headerText": "Which wind instruments are used in Indian Classical Music: History, Origin and Facts",
-    "headerImage": "/img/flute.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/flute.jpg",
     "url": "/2018/01/wind-instrument-of-indian-classical.html",
     "headerVideo": "",
     "type": "LEARN",
     "audioNotes": {},
-    "body": "2018-01-wind-instrument-of-indian-classical.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-01-wind-instrument-of-indian-classical.md"
   },
   "2018-02-raga-durga-hindi-pdf.html": {
     "headerText": "Raag Durga in Hindi with Notes, Lakshan Geet and Bandhish - Download PDF",
-    "headerImage": "/img/musicians.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/musicians.jpg",
     "url": "/2018/02/raga-durga-hindi-pdf.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2018-02-raga-durga-hindi-pdf.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-02-raga-durga-hindi-pdf.md"
   },
   "2018-02-raga-bhimpalasi-notes-lakshan-geet.html": {
     "headerText": "Raag Bhimpalasi with Notes, Lakshan Geet (PDF Download)",
-    "headerImage": "/img/krishna.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/krishna.jpg",
     "url": "/2018/02/raga-bhimpalasi-notes-lakshan-geet.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2018-02-raga-bhimpalasi-notes-lakshan-geet.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-02-raga-bhimpalasi-notes-lakshan-geet.md"
   },
   "2018-02-raga-bilawal-saragam.html": {
     "headerText": "Raag Bilawal Notes: Saragam, Jaati, Lakshan Geet with Pdf Download",
-    "headerImage": "/img/bilawal.png",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/bilawal.png",
     "url": "/2018/02/raga-bilawal-saragam.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2018-02-raga-bilawal-saragam.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-02-raga-bilawal-saragam.md"
   },
   "2018-03-raga-shivaranjani-notes.html": {
     "headerText": "Raag Shivaranjani Notes - Learn with Aroh, Avaroh notes with Pdf Download",
-    "headerImage": "/img/shivaranjani.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/shivaranjani.jpg",
     "url": "/2018/03/raga-shivaranjani-notes.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2018-03-raga-shivaranjani-notes.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-03-raga-shivaranjani-notes.md"
   },
   "2018-03-raga-peelu.html": {
     "headerText": "Raag Pilu: Most Soothing Raag of Hindustani Classical Music",
-    "headerImage": "/img/peelu.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/peelu.jpg",
     "url": "/2018/03/raga-peelu.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2018-03-raga-peelu.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-03-raga-peelu.md"
   },
   "2018-05-raga-pahadi.html": {
     "headerText": "Raag Pahadi - Learning Notes, Aroh, Avaroh and Bollywood Songs",
@@ -396,24 +396,24 @@
     "headerVideo": "https://www.youtube.com/embed/n3uLU-63lgM",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2018-05-raga-pahadi.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-05-raga-pahadi.md"
   },
   "2018-05-raga-malkauns-malkosh.html": {
     "headerText": "Raag Malkauns (Malkosh) or Hindolam - Learn to sing with notes Aroh, Avaroh, Rasa",
-    "headerImage": "/img/malkauns.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/malkauns.jpg",
     "url": "/2018/05/raga-malkauns-malkosh.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2018-05-raga-malkauns-malkosh.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-05-raga-malkauns-malkosh.md"
   },
   "2018-05-raga-gauri-guru-granth-sahib.html": {
     "headerText": "Raag Gauri - Beauty from Guru Granth Sahib (Aroh, Avaroh, Pakad and Shabad)",
-    "headerImage": "/img/gauri.jpg",
+    "headerImage": "https://caesiumstudio.github.io/r/ragamelody/assets/img/gauri.jpg",
     "url": "/2018/05/raga-gauri-guru-granth-sahib.html",
     "headerVideo": "",
     "type": "RAGA",
     "audioNotes": {},
-    "body": "2018-05-raga-gauri-guru-granth-sahib.md"
+    "body": "https://caesiumstudio.github.io/r/ragamelody/assets/data/2018-05-raga-gauri-guru-granth-sahib.md"
   }
 }
