@@ -1,0 +1,419 @@
+{
+  "p-home.html": {
+    "headerText": "Learn Alankaras, Raags, Bandhish, Taal, Shruti, Scales, Music Theory, and everything about music.",
+    "headerImage": "",
+    "headerVideo": "https://www.youtube.com/embed/kOpVBJqstuk",
+    "type": "POLICY",
+    "audioNotes": {},
+    "body": "p-home.md"
+  },
+  "p-piano.html": {
+    "headerText": "Piano App",
+    "headerImage": "",
+    "headerVideo": "https://www.youtube.com/embed/E3aWzkV1G9Q",
+    "urlAndroidApp": "https://play.google.com/store/apps/details?id=com.caesiumstudio.piano",
+    "urlIOSApp": "https://apps.apple.com/in/app/piano-real-sounds-keyboard/id6450960532",
+    "type": "ADVERT",
+    "audioNotes": {},
+    "body": "p-piano.md"
+  },
+  "p-harmonium.html": {
+    "headerText": "Harmonium - Real Sounds",
+    "headerImage": "",
+    "headerVideo": "https://www.youtube.com/embed/y_nKvH6B_Hg",
+    "type": "ADVERT",
+    "urlAndroidApp": "https://play.google.com/store/apps/details?id=com.caesiumgames.harmonium",
+    "urlIOSApp": "https://apps.apple.com/in/app/harmonium-real-sounds-raga/id6451088024",
+    "audioNotes": {},
+    "body": "p-harmonium.md"
+  },
+  "p-tabla.html": {
+    "headerText": "Tabla - Indian Classical Drums",
+    "headerImage": "",
+    "headerVideo": "https://www.youtube.com/embed/OuW2TEKtpHs",
+    "urlAndroidApp": "https://play.google.com/store/apps/details?id=com.caesiumstudio.tabla",
+    "type": "ADVERT",
+    "audioNotes": {},
+    "body": "p-tabla.md"
+  },
+  "p-jal-tarang.html": {
+    "headerText": "Jal Tarang - Indian Water Instrument",
+    "headerImage": "",
+    "headerVideo": "https://www.youtube.com/embed/xoLxzGyENrY",
+    "urlAndroidApp": "https://play.google.com/store/apps/details?id=com.caesiumstudio.jaltarang",
+    "type": "ADVERT",
+    "audioNotes": {},
+    "body": "p-jal-tarang.md"
+  },
+  "p-privacy-policy.html": {
+    "headerText": "Privacy Policy.",
+    "headerImage": "",
+    "headerVideo": "",
+    "type": "POLICY",
+    "audioNotes": {},
+    "body": "p-privacy-policy.md"
+  },
+  "2011-01-alankar-saralies.html": {
+    "headerText": "Alankar Saralies - The basics of indian classical music",
+    "headerImage": "",
+    "url": "/2011/01/alankar-saralies.html",
+    "cardImage": "/img/alankars2.jpg",
+    "headerVideo": "https://www.youtube.com/embed/QSxnsEpgC1k",
+    "type": "RAGA",
+    "audioNotes": {
+      "Saragam 1": [
+        "Sa Re Ga Ma Pa Dha Ne SA SA Ne Dha Pa Ma Ga Re Sa"
+      ],
+      "Saragam 2": [
+        "Sa Re Ga Sa Re Ga Sa Re Sa Re Ga Ma Pa Dha Ne SA SA Ne Dha SA Ne Dha SA Ne SA Ne Dha Pa Ma Ga Re Sa"
+      ],
+      "Saragam 3": [
+        "Sa Re Ga Ma Sa Re Ga Ma Sa Re Ga Ma Pa Dha Ne SA SA Ne Dha Pa SA Ne Dha Pa SA Ne Dha Pa Ma Ga Re Sa"
+      ],
+      "Saragam 4": [
+        "Sa Re Ga Re Ga Ma Ga Ma Pa Ma Pa Dha Pa Dha Ne Dha Ne SA SA Ne Dha Ne Dha Pa Dha Pa Ma Pa Ma Ga Ma Ga Re Ga Re Sa"
+      ],
+      "Saragam 5": [
+        "Sa Re Ga Ma Re Ga Ma Pa Ga Ma Pa Dha Ma Pa Dha Ne Pa Dha Ne SA SA Ne Dha Pa Ne Dha Pa Ma Dha Pa Ma Ga Pa Ma Ga Re Ma Ga Re Sa"
+      ],
+      "Saragam 6": [
+        "Sa Re Sa Re Ga Re Ga Re Ga Ma Ga Ma Ga Ma Pa Ma Pa Ma Pa Dha Pa Dha Pa Dha Ne Dha Ne Dha Ne SA SA Ne SA Ne Dha Ne Dha Ne Dha Pa Dha Pa Dha Pa Ma Pa Ma Pa Ma Ga Ma Ga Ma Ga Re Ga Re Ga Re Sa"
+      ],
+      "Saragam 7": [
+        "Sa Ga Re Ma Ga Pa Ma Dha Pa Ne Dha SA SA Dha Ne Pa Dha Ma Pa Ga Ma Re Ga Sa"
+      ],
+      "Saragam 8": [
+        "Sa Re Sa Ga Re Ga Re Ma Ga Ma Ga Pa Ma Pa Ma Dha Pa Dha Pa Ne Dha Ne Dha SA SA Ne SA Dha Ne Dha Ne Pa Dha Pa Dha Ma Pa Ma Pa Ga Ma Ga Ma Re Ga Re Ga Sa"
+      ],
+      "Saragam 9": [
+        "Re Sa Ga Re Ma Ga Pa Ma Dha Pa Ne Dha SA Ne RE SA Ne SA Dha Ne Pa Dha Ma Pa Ga Ma Re Ga Sa Re ne Sa"
+      ],
+      "Saragam 10": [
+        "Sa Re Ga Sa Re Ga Ma Re Ga Ma Re Ga Ma Pa Ga Ma Pa Ga Ma Pa Dha Ma Pa Dha Ma Pa Dha Ne Pa Dha Ne Pa Dha Ne SA SA Ne Dha SA Ne Dha Pa Ne Dha Pa Ne Dha Pa Ma Dha Pa Ma Dha Pa Ma Ga Pa Ma Ga Pa Ma Ga Re Ma Ga Re Ma Ga Re Sa"
+      ],
+      "Saragam 11": [
+        "Sa Re Ga Ma Ga Re Sa Re Ga Ma Re Ga Ma Pa Ma Ga Re Ga Ma Pa Ga Ma Pa Dha Pa Ma Ga Ma Pa Dha Ma Pa Dha Ne Dha Pa Ma Pa Dha Ne Pa Dha Ne SA Ne Dha Pa Dha Ne SA SA Ne Dha Pa Dha Ne SA Ne Dha Pa Ne Dha Pa Ma Pa Dha Ne Dha Pa Ma Dha Pa Ma Ga Ma Pa Dha Pa Ma Ga Pa Ma Ga Re Ga Ma Pa Ma Ga Re Ma Ga Re Sa Re Ga Ma Ga Re Sa"
+      ],
+      "Saragam 12": [
+        "Sa Sa Re Re Ga Ga Ma Ma Pa Pa Dha Dha Ne Ne SA SA SA SA Ne Ne Dha Dha Pa Pa Ma Ma Ga Ga Re Re Sa Sa"
+      ],
+      "Saragam 13": [
+        "Sa Sa Re Re Ga Ga Ma Ma Re Re Ga Ga Ma Ma Pa Pa Ga Ga Ma Ma Pa Pa Dha Dha Ma Ma Pa Pa Dha Dha Ne Ne Pa Pa Dha Dha Ne Ne SA SA SA SA Ne Ne Dha Dha Pa Pa Ne Ne Dha Dha Pa Pa Ma Ma Dha Dha Pa Pa Ma Ma Ga Ga Pa Pa Ma Ma Ga Ga Re Re Ma Ma Ga Ga Re Re Sa Sa"
+      ]
+    },
+    "body": "2011-01-alankar-saralies.md"
+  },
+  "2011-01-raga-bhoop-bhoopali.html": {
+    "headerText": "Raag Bhoop, Bhupali or Bhoopali with Notes, Lakshan Geet and Bandhish",
+    "headerImage": "/img/raga-bhoop.jpg",
+    "url": "/2011/01/raga-bhoop-bhoopali.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {
+      "Raga": [
+        "Sa Re Ga Pa Dha SA SA Dha Pa Ga Re Sa"
+      ],
+      "Pakad": [
+        "Ga Re Sa Re Dha SA Ga Pa Dha Pa Ga Re"
+      ],
+      "Swaras": [
+        "SA SA Dha Pa Ga Re Sa Re Ga Ga Re Ga Pa Dha Pa Ga Ga Ga Re Ga Pa Dha Pa Dha SA Dha Pa Ga Re Sa Sa Ga Pa Dha Pa Dha SA SA SA Dha Dha SA RE GA RE SA Dha GA GA RE SA RE RE SA Dha SA SA Dha Pa Ga Re Sa Sa"
+      ],
+      "Antara 1": [
+        "Sa Re Ga Pa Dha SA Pa Ga Pa Dha Pa Ga Re Sa Sa Ga Pa Dha SA Dha SA Dha Pa Ga Pa Dha Pa Ga Re Sa Sa Sa Dha Pa Dha Dha Pa Ga Pa Pa Ga Re Ga Ga Re Sa"
+      ],
+      "Antara 2": [
+        "dha Sa Re Ga Re Ga Re Sa Ga Pa Dha SA Ga Pa SA Ga Re Sa dha Re Sa dha pa Sa dha pa ga pa dha Sa Ga Ga Re Sa Re Re Sa dha Sa Sa dha pa ga pa dha Sa"
+      ]
+    },
+    "body": "2011-01-raga-bhoop-bhoopali.md"
+  },
+  "2011-02-raag-durga.html": {
+    "headerText": "Raag Durga with Notes, Lakshan Geet and Bandhish - Download Pdf",
+    "headerImage": "/img/raga-durga.jpg",
+    "url": "/2011/02/raag-durga.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2011-02-raag-durga.md"
+  },
+  "2017-01-raag-saranga.html": {
+    "headerText": "Raag Saranga with Lakshan Geet, Notes and Bandhish with Download Pdf",
+    "headerImage": "/img/raga-sarang.jpg",
+    "url": "/2017/01/raag-saranga.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-01-raag-saranga.md"
+  },
+  "2017-01-alankar-saralies-2-advanced.html": {
+    "headerText": "Alankar Saralies 2 (Advanced), Sing along to improve the range of your voice.",
+    "cardImage": "/img/alankars2.jpg",
+    "url": "/2017/01/alankar-saralies-2-advanced.html",
+    "headerVideo": "https://www.youtube.com/embed/utDGfPpAPBM",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-01-alankar-saralies-2-advanced.md"
+  },
+  "2017-01-nava-rasa-rasas.html": {
+    "headerText": "Nava Rasa (Rasas) Meaning and Usage in Indian Classical Music",
+    "headerImage": "/img/navarasa.jpg",
+    "url": "/2017/01/nava-rasa-rasas.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-01-nava-rasa-rasas.md"
+  },
+  "2017-02-what-is-saragam.html": {
+    "headerText": "What is Saragam or Sa Re Ga Ma? Where does Saragam or sa re ga ma come from?",
+    "headerImage": "/img/saragam.jpg",
+    "url": "/2017/02/what-is-saragam.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-02-what-is-saragam.md"
+  },
+  "2017-02-ashta-prahar-ragas.html": {
+    "headerText": "Ashta Prahar in Indian Classical Music (Times of days) and Raags for them",
+    "headerImage": "/img/ashta.jpg",
+    "url": "/2017/02/ashta-prahar-ragas.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-02-ashta-prahar-ragas.md"
+  },
+  "2017-02-raga-bhairav-raga-bhairava.html": {
+    "headerText": "Raag Bhairav or Bhairava with Lakshan Geet and Bandhish with Pdf Download",
+    "headerImage": "/img/raga-bhairav.jpg",
+    "url": "/2017/02/raga-bhairav-raga-bhairava.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-02-raga-bhairav-raga-bhairava.md"
+  },
+  "2017-02-raga-des-raga-desh.html": {
+    "headerText": "Raag Desh, Desh: With Lakshan Geet, Notes and Bandhish with Download Pdf",
+    "headerImage": "/img/raga-des.jpg",
+    "url": "/2017/02/raga-des-raga-desh.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-02-raga-des-raga-desh.md"
+  },
+  "2017-02-5-ways-you-can-sing-better.html": {
+    "headerText": "How to sing Raags and how to improve Singing. The best 5 ways to improve your singing",
+    "headerImage": "/img/singing.jpg",
+    "url": "/2017/02/5-ways-you-can-sing-better.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-02-5-ways-you-can-sing-better.md"
+  },
+  "2017-03-raaga-kedar-raga-kedara.html": {
+    "headerText": "Raga Kedar or Raag Kedara: Learn its History, Origin and Facts with Download Pdf",
+    "headerImage": "/img/raga-kedar.jpg",
+    "url": "/2017/03/raaga-kedar-raga-kedara.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-03-raaga-kedar-raga-kedara.md"
+  },
+  "2017-05-ragas-in-bollywood-music.html": {
+    "headerText": "11 Best Raags Used In Bollywood Music",
+    "headerImage": "/img/bolly.jpg",
+    "url": "/2017/05/ragas-in-bollywood-music.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-05-ragas-in-bollywood-music.md"
+  },
+  "2017-05-raga-hamir-raaga-hameer.html": {
+    "headerText": "Raag Hamir or Raaga Hameer and how to sing it with Pakad, Lakshan Geet and Bandhish with Pdf Download",
+    "headerImage": "/img/hamir.jpg",
+    "url": "/2017/05/raga-hamir-raaga-hameer.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-05-raga-hamir-raaga-hameer.md"
+  },
+  "2017-05-raag-kalavati-raga-kalawati.html": {
+    "headerText": "Raag Kalavati and how to sing it with Aroh, Avaroh, Pakad, Lakshan Geet and Bandhish",
+    "headerImage": "/img/kalavati.jpg",
+    "url": "/2017/05/raag-kalavati-raga-kalawati.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-05-raag-kalavati-raga-kalawati.md"
+  },
+  "2017-05-hindustani-classical-music.html": {
+    "headerText": "Guide to Hindustani Classical Music: You would never need anything else",
+    "headerImage": "/img/gaatha.jpg",
+    "url": "/2017/05/hindustani-classical-music.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-05-hindustani-classical-music.md"
+  },
+  "2017-05-play-instrument-as-singer.html": {
+    "headerText": "Why You Should Learn an Instrument as a Vocalist?",
+    "headerImage": "/img/piano.jpg",
+    "url": "/2017/05/play-instrument-as-singer.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-05-play-instrument-as-singer.md"
+  },
+  "2024-02-how-to-learn-harmonium.html": {
+    "headerText": "How to Learn Harmonium the Easier Way",
+    "cardImage": "/img/harmonium.jpg",
+    "url": "2024/02/how-to-learn-harmonium.html",
+    "headerVideo": "https://www.youtube.com/embed/y_nKvH6B_Hg",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2024-02-how-to-learn-harmonium.md"
+  },
+  "2017-06-10-most-important-thaats-in-hindustani.html": {
+    "headerText": "10 Thaats in Hindustani Classical Music: Most Important",
+    "headerImage": "/img/indianart.jpg",
+    "url": "/2017/06/10-most-important-thaats-in-hindustani.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-06-10-most-important-thaats-in-hindustani.md"
+  },
+  "2017-06-sruti-in-hindustani-class-music.html": {
+    "headerText": "What are Sruti or Shruti in Hindustani Classical Music: History Origin and Facts",
+    "headerImage": "/img/sitar.png",
+    "url": "/2017/06/sruti-in-hindustani-class-music.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-06-sruti-in-hindustani-class-music.md"
+  },
+  "2017-10-raga-yaman.html": {
+    "headerText": "Raag Yaman with Saragam, Notes, Bandhish and Lakshan Geet with Pdf Download",
+    "headerImage": "",
+    "url": "/2017/10/raga-yaman.html",
+    "headerVideo": "https://www.youtube.com/embed/n3uLU-63lgM",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-10-raga-yaman.md"
+  },
+  "2017-12-raga-asavari-asaavari.html": {
+    "headerText": "Raag Asavari /Asaavari with Notes and Saragam",
+    "headerImage": "/img/deer.jpg",
+    "url": "/2017/12/raga-asavari-asaavari.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2017-12-raga-asavari-asaavari.md"
+  },
+  "2017-12-jaatis-of-ragas-difference-between.html": {
+    "headerText": "Jaatis of Raags - Difference between Thaats and Jaati of Raag",
+    "headerImage": "/img/jaati.jpg",
+    "url": "/2017/12/jaatis-of-ragas-difference-between.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-12-jaatis-of-ragas-difference-between.md"
+  },
+  "2017-12-facts-about-instruments-of-indian.html": {
+    "headerText": "Which String Instruments are used in Indian Classical Music: History, Origin and Facts about them",
+    "headerImage": "/img/instru.png",
+    "url": "/2017/12/facts-about-instruments-of-indian.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-12-facts-about-instruments-of-indian.md"
+  },
+  "2017-12-percussion-instruments-of-indian.html": {
+    "headerText": "Percussion Instruments of Indian Classical Music: History, Origin and Facts",
+    "headerImage": "/img/musicnotes.jpg",
+    "url": "/2017/12/percussion-instruments-of-indian.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2017-12-percussion-instruments-of-indian.md"
+  },
+  "2018-01-wind-instrument-of-indian-classical.html": {
+    "headerText": "Which wind instruments are used in Indian Classical Music: History, Origin and Facts",
+    "headerImage": "/img/flute.jpg",
+    "url": "/2018/01/wind-instrument-of-indian-classical.html",
+    "headerVideo": "",
+    "type": "LEARN",
+    "audioNotes": {},
+    "body": "2018-01-wind-instrument-of-indian-classical.md"
+  },
+  "2018-02-raga-durga-hindi-pdf.html": {
+    "headerText": "Raag Durga in Hindi with Notes, Lakshan Geet and Bandhish - Download PDF",
+    "headerImage": "/img/musicians.jpg",
+    "url": "/2018/02/raga-durga-hindi-pdf.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2018-02-raga-durga-hindi-pdf.md"
+  },
+  "2018-02-raga-bhimpalasi-notes-lakshan-geet.html": {
+    "headerText": "Raag Bhimpalasi with Notes, Lakshan Geet (PDF Download)",
+    "headerImage": "/img/krishna.jpg",
+    "url": "/2018/02/raga-bhimpalasi-notes-lakshan-geet.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2018-02-raga-bhimpalasi-notes-lakshan-geet.md"
+  },
+  "2018-02-raga-bilawal-saragam.html": {
+    "headerText": "Raag Bilawal Notes: Saragam, Jaati, Lakshan Geet with Pdf Download",
+    "headerImage": "/img/bilawal.png",
+    "url": "/2018/02/raga-bilawal-saragam.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2018-02-raga-bilawal-saragam.md"
+  },
+  "2018-03-raga-shivaranjani-notes.html": {
+    "headerText": "Raag Shivaranjani Notes - Learn with Aroh, Avaroh notes with Pdf Download",
+    "headerImage": "/img/shivaranjani.jpg",
+    "url": "/2018/03/raga-shivaranjani-notes.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2018-03-raga-shivaranjani-notes.md"
+  },
+  "2018-03-raga-peelu.html": {
+    "headerText": "Raag Pilu: Most Soothing Raag of Hindustani Classical Music",
+    "headerImage": "/img/peelu.jpg",
+    "url": "/2018/03/raga-peelu.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2018-03-raga-peelu.md"
+  },
+  "2018-05-raga-pahadi.html": {
+    "headerText": "Raag Pahadi - Learning Notes, Aroh, Avaroh and Bollywood Songs",
+    "headerImage": "",
+    "url": "2018-05-raga-pahadi.html",
+    "headerVideo": "https://www.youtube.com/embed/n3uLU-63lgM",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2018-05-raga-pahadi.md"
+  },
+  "2018-05-raga-malkauns-malkosh.html": {
+    "headerText": "Raag Malkauns (Malkosh) or Hindolam - Learn to sing with notes Aroh, Avaroh, Rasa",
+    "headerImage": "/img/malkauns.jpg",
+    "url": "/2018/05/raga-malkauns-malkosh.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2018-05-raga-malkauns-malkosh.md"
+  },
+  "2018-05-raga-gauri-guru-granth-sahib.html": {
+    "headerText": "Raag Gauri - Beauty from Guru Granth Sahib (Aroh, Avaroh, Pakad and Shabad)",
+    "headerImage": "/img/gauri.jpg",
+    "url": "/2018/05/raga-gauri-guru-granth-sahib.html",
+    "headerVideo": "",
+    "type": "RAGA",
+    "audioNotes": {},
+    "body": "2018-05-raga-gauri-guru-granth-sahib.md"
+  }
+}
