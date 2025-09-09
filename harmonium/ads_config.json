@@ -1,8 +1,8 @@
 {
     "isBannerAdEnabled": true,
-    "isInterstitialAdEnabled": true,
+    "isInterstitialAdEnabled": false,
     "isVideoAdEnabled": false,
-    "isHomeScreenAdEnabled": true,
+    "isHomeScreenAdEnabled": false,
     "isAppOpenAdEnabled": true,
     "isSubscriptionOffered": true,
     "discountPercent": 0.50,
