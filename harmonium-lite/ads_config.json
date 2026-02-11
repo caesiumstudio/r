@@ -3,7 +3,7 @@
     "isInterstitialAdEnabled": true,
     "isVideoAdEnabled": true,
     "isHomeScreenAdEnabled": true,
-    "isPaywallForLesson": true,
+    "isPaywallForLesson": false,
     "isHardPaywall": false,
     "homeScreenAdInfo": {
         "link": "https://play.google.com/store/apps/details?id=com.caesiumstudio.piano",
