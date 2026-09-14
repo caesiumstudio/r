@@ -1,0 +1,18 @@
+{
+    "linkPlayStore": "https://play.google.com/store/apps/details?id=com.caesiumstudio.csbooks",
+    "linkAppStore": "https://apps.apple.com/us/app/csbooks-epub-and-pdf-reader/id6477337382",
+    "linkAboutUs": "https://www.caesiumstudio.com",
+    "developerEmail": "studiocaesium@gmail.com",
+    "linkPrivacyPolicy": "https://www.caesiumstudio.com/privacy-policy",
+    "linkTermsOfService": "https://www.caesiumstudio.com/privacy-policy",
+    "linkCookiesPolicy": "https://www.caesiumstudio.com/privacy-policy",
+    "linkEula": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
+    "apiDomain": "codingdeepdive.com",
+    "urlBookBase": "/api/csbooks/v1/book/base.php",
+    "urlAccountBase": "/api/csbooks/v1/account/base.php",
+    "urlCommunityBase": "/api/csbooks/v1/community/base.php",
+    "urlAudioBookBase": "/api/csbooks/v1/audio_book/base.php",
+    "urlAnalyticsBase": "/api/base.php",
+    "analyticsEndpoint": "https://apporb.net/api/v1/track",
+    "translationApiUrl": "https://api.mymemory.translated.net/get"
+}
